@@ -23,7 +23,7 @@ You can search for existing candlestick indicators for specific companies. You a
 You can utilise and alter basic technical indicators such as moving averages and bollinger bands.
 ### ![alt text](https://github.com/aloychow/stockstockstocks/blob/main/images/statistical_indicator_image.png "statistical")
 
-## Fundamental
+## Fundamental Indicators
 
 - Unimplemented -
 
