@@ -1,0 +1,4 @@
+Aspects,Explanation
+Autoregression,"Model that utilises the dependent relationship between an observation and other lagged observations. The letter p, known as the  lag order, represent the number of lag observations"
+Moving Average,"Model that utilises the depedency between an observation and its corresponding residual errors applied to lagged observations. The letter q, known as the order of the moving average, is used as the size of the moving average window"
+Integrated,"Differencing of raw observations is used to make the time series stationary. THe letter d, known as the degree of diferencing, is the number of times the observations are differenced"

@@ -1,0 +1,13 @@
+.dash-table-container .row {
+  display: block;
+  margin: 0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+  width: 50%;
+  height: 50%;
+}

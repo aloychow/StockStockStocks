@@ -1,0 +1,638 @@
+num_mentions,stock_ticker,stock_name,dt
+1,AAPL,Apple Inc.,2021-02-16 00:00:00
+1,ABNB,"Airbnb, Inc.",2021-02-12 00:00:00
+2,ACB,Aurora Cannabis Inc.,2021-02-11 00:00:00
+1,ACB,Aurora Cannabis Inc.,2021-02-10 00:00:00
+1,ADMP,Adamis Pharmaceuticals Corporation,2021-02-10 00:00:00
+1,AEO,"American Eagle Outfitters, Inc.",2021-02-14 00:00:00
+1,AEZS,Aeterna Zentaris Inc.,2021-02-13 00:00:00
+2,AFC,Allied Capital Corporation NT 6.875 2047,2021-02-11 00:00:00
+2,AFRM,"Affirm Holdings, Inc.",2021-02-15 00:00:00
+1,AFRM,"Affirm Holdings, Inc.",2021-02-14 00:00:00
+1,AGTC,Applied Genetic Technologies Corporation,2021-02-11 00:00:00
+1,AI,"C3.ai, Inc.",2021-02-15 00:00:00
+1,AI,"C3.ai, Inc.",2021-02-14 00:00:00
+1,AI,"C3.ai, Inc.",2021-02-13 00:00:00
+1,AI,"C3.ai, Inc.",2021-02-12 00:00:00
+2,AIV,Apartment Investment and Management Company,2021-02-14 00:00:00
+1,ALGN,"Align Technology, Inc.",2021-02-15 00:00:00
+1,ALPP,"Alpine 4 Technologies, Ltd.",2021-02-10 00:00:00
+1,ALV,"Autoliv, Inc.",2021-02-12 00:00:00
+2,AMAT,"Applied Materials, Inc.",2021-02-14 00:00:00
+3,AMC,"AMC Entertainment Holdings, Inc.",2021-02-17 00:00:00
+2,AMC,"AMC Entertainment Holdings, Inc.",2021-02-16 00:00:00
+3,AMC,"AMC Entertainment Holdings, Inc.",2021-02-15 00:00:00
+4,AMC,"AMC Entertainment Holdings, Inc.",2021-02-14 00:00:00
+5,AMC,"AMC Entertainment Holdings, Inc.",2021-02-13 00:00:00
+7,AMC,"AMC Entertainment Holdings, Inc.",2021-02-12 00:00:00
+3,AMC,"AMC Entertainment Holdings, Inc.",2021-02-11 00:00:00
+3,AMC,"AMC Entertainment Holdings, Inc.",2021-02-10 00:00:00
+2,AMD,"Advanced Micro Devices, Inc.",2021-02-16 00:00:00
+2,AMD,"Advanced Micro Devices, Inc.",2021-02-15 00:00:00
+4,AMD,"Advanced Micro Devices, Inc.",2021-02-14 00:00:00
+6,AMD,"Advanced Micro Devices, Inc.",2021-02-13 00:00:00
+5,AMD,"Advanced Micro Devices, Inc.",2021-02-12 00:00:00
+3,AMD,"Advanced Micro Devices, Inc.",2021-02-11 00:00:00
+1,AMKBY,A.P. Møller - Mærsk A/S,2021-02-14 00:00:00
+4,AMKR,"Amkor Technology, Inc.",2021-02-12 00:00:00
+1,AMZN,"Amazon.com, Inc.",2021-02-14 00:00:00
+2,AMZN,"Amazon.com, Inc.",2021-02-13 00:00:00
+1,AMZN,"Amazon.com, Inc.",2021-02-11 00:00:00
+2,AN,"AutoNation, Inc.",2021-02-12 00:00:00
+1,ANTE,AirNet Technology Inc.,2021-02-16 00:00:00
+1,AP,Ampco-Pittsburgh Corporation,2021-02-13 00:00:00
+3,APHA,Aphria Inc.,2021-02-13 00:00:00
+6,APHA,Aphria Inc.,2021-02-12 00:00:00
+23,APHA,Aphria Inc.,2021-02-11 00:00:00
+5,APHA,Aphria Inc.,2021-02-10 00:00:00
+1,APXT,Apex Technology Acquisition Corporation,2021-02-12 00:00:00
+1,AQB,"AquaBounty Technologies, Inc.",2021-02-12 00:00:00
+1,AR,Antero Resources Corporation,2021-02-12 00:00:00
+1,ARKF,ARK Fintech Innovation ETF,2021-02-11 00:00:00
+1,ARKG,ARK Genomic Revolution ETF,2021-02-15 00:00:00
+1,ARKG,ARK Genomic Revolution ETF,2021-02-14 00:00:00
+1,ARKG,ARK Genomic Revolution ETF,2021-02-12 00:00:00
+2,ARKK,ARK Innovation ETF,2021-02-15 00:00:00
+1,ARKK,ARK Innovation ETF,2021-02-10 00:00:00
+1,ASYS,"Amtech Systems, Inc.",2021-02-13 00:00:00
+1,ASYS,"Amtech Systems, Inc.",2021-02-12 00:00:00
+1,ASYS,"Amtech Systems, Inc.",2021-02-10 00:00:00
+2,AT,Atlantic Power Corporation,2021-02-16 00:00:00
+1,ATD-B.TO,Alimentation Couche-Tard Inc.,2021-02-12 00:00:00
+1,ATOM,Atomera Incorporated,2021-02-12 00:00:00
+1,ATOS,"Atossa Therapeutics, Inc.",2021-02-10 00:00:00
+1,ATVI,"Activision Blizzard, Inc.",2021-02-16 00:00:00
+2,ATVI,"Activision Blizzard, Inc.",2021-02-14 00:00:00
+2,AUY,Yamana Gold Inc.,2021-02-11 00:00:00
+2,AYX,"Alteryx, Inc.",2021-02-14 00:00:00
+3,BALY,"Bally's Corporation",2021-02-15 00:00:00
+6,BB,BlackBerry Limited,2021-02-14 00:00:00
+3,BB,BlackBerry Limited,2021-02-12 00:00:00
+6,BB,BlackBerry Limited,2021-02-11 00:00:00
+1,BBY,"Best Buy Co., Inc.",2021-02-12 00:00:00
+1,BCP.LS,"Banco Comercial Português, S.A.",2021-02-12 00:00:00
+1,BDJ,BlackRock Enhanced Equity Dividend Trust,2021-02-16 00:00:00
+1,BEP,Brookfield Renewable Partners L.P.,2021-02-13 00:00:00
+1,BEP,Brookfield Renewable Partners L.P.,2021-02-11 00:00:00
+1,BEPC,Brookfield Renewable Corporation,2021-02-13 00:00:00
+1,BEST,BEST Inc.,2021-02-16 00:00:00
+1,BFLY,59637,2021-02-17 00:00:00
+1,BHF,"Brighthouse Financial, Inc.",2021-02-11 00:00:00
+2,BIG,"Big Lots, Inc.",2021-02-13 00:00:00
+1,BIG,"Big Lots, Inc.",2021-02-11 00:00:00
+2,BIGC,"BigCommerce Holdings, Inc.",2021-02-15 00:00:00
+2,BIO,"Bio-Rad Laboratories, Inc.",2021-02-12 00:00:00
+1,BLDV,"Blue Diamond Ventures, Inc.",2021-02-12 00:00:00
+1,BLDV,"Blue Diamond Ventures, Inc.",2021-02-10 00:00:00
+1,BLSP,Blue Sphere Corporation,2021-02-11 00:00:00
+5,BMBL,Bumble Inc.,2021-02-13 00:00:00
+2,BMBL,Bumble Inc.,2021-02-11 00:00:00
+1,BNED,"Barnes & Noble Education, Inc.",2021-02-15 00:00:00
+1,BNGO,"Bionano Genomics, Inc.",2021-02-11 00:00:00
+2,BNTX,BioNTech SE,2021-02-15 00:00:00
+1,BNY,BlackRock New York Municipal Income Trust,2021-02-12 00:00:00
+2,BOB,Alpha Architect Merlyn.AI Best-of-Breed Core Momentum ETF,2021-02-16 00:00:00
+1,BOTH,"Bioethics, Ltd.",2021-02-16 00:00:00
+3,BOTY,"Lingerie Fighting Championships, Inc.",2021-02-12 00:00:00
+2,BOTY,"Lingerie Fighting Championships, Inc.",2021-02-10 00:00:00
+1,BP,BP p.l.c.,2021-02-12 00:00:00
+1,BSQR,BSQUARE Corporation,2021-02-13 00:00:00
+1,BTZI,"BOTS, Inc.",2021-02-11 00:00:00
+1,C,Citigroup Inc.,2021-02-11 00:00:00
+1,CAPC,"Capstone Companies, Inc.",2021-02-12 00:00:00
+1,CBDHF,Hempfusion Wellness Inc.,2021-02-11 00:00:00
+2,CCIV,Churchill Capital Corp IV,2021-02-16 00:00:00
+2,CCIV,Churchill Capital Corp IV,2021-02-13 00:00:00
+1,CD,Chindata Group Holdings Limited,2021-02-10 00:00:00
+2,CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,2021-02-16 00:00:00
+1,CECE,CECO Environmental Corp.,2021-02-12 00:00:00
+1,CEO,CNOOC Limited,2021-02-15 00:00:00
+2,CEO,CNOOC Limited,2021-02-14 00:00:00
+4,CEO,CNOOC Limited,2021-02-13 00:00:00
+1,CEO,CNOOC Limited,2021-02-12 00:00:00
+1,CEO,CNOOC Limited,2021-02-10 00:00:00
+2,CGC,Canopy Growth Corporation,2021-02-12 00:00:00
+2,CGC,Canopy Growth Corporation,2021-02-11 00:00:00
+1,CGNT,Cognyte Software Ltd.,2021-02-15 00:00:00
+2,CLDR,"Cloudera, Inc.",2021-02-12 00:00:00
+2,CLF,Cleveland-Cliffs Inc.,2021-02-11 00:00:00
+2,CLNE,Clean Energy Fuels Corp.,2021-02-12 00:00:00
+1,CLOV,"Clover Health Investments, Corp.",2021-02-13 00:00:00
+2,CLUBQ,"Town Sports International Holdings, Inc.",2021-02-12 00:00:00
+2,CM,Canadian Imperial Bank of Commerce,2021-02-14 00:00:00
+1,CMBM,Cambium Networks Corporation,2021-02-16 00:00:00
+2,CME,CME Group Inc.,2021-02-12 00:00:00
+1,CNET,ZW Data Action Technologies Inc.,2021-02-11 00:00:00
+1,CORP,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund,2021-02-12 00:00:00
+1,COST,Costco Wholesale Corporation,2021-02-12 00:00:00
+1,COTY,Coty Inc.,2021-02-16 00:00:00
+4,COTY,Coty Inc.,2021-02-15 00:00:00
+2,COTY,Coty Inc.,2021-02-14 00:00:00
+2,COTY,Coty Inc.,2021-02-13 00:00:00
+1,CRBP,"Corbus Pharmaceuticals Holdings, Inc.",2021-02-15 00:00:00
+1,CRLBF,Cresco Labs Inc.,2021-02-10 00:00:00
+1,CRMD,CorMedix Inc.,2021-02-10 00:00:00
+4,CRON,Cronos Group Inc.,2021-02-17 00:00:00
+1,CRON,Cronos Group Inc.,2021-02-13 00:00:00
+2,CRSP,CRISPR Therapeutics AG,2021-02-13 00:00:00
+1,CRSP,CRISPR Therapeutics AG,2021-02-11 00:00:00
+2,CRSR,"Corsair Gaming, Inc.",2021-02-16 00:00:00
+2,CRSR,"Corsair Gaming, Inc.",2021-02-15 00:00:00
+1,CRSR,"Corsair Gaming, Inc.",2021-02-14 00:00:00
+2,CRSR,"Corsair Gaming, Inc.",2021-02-13 00:00:00
+4,CRSR,"Corsair Gaming, Inc.",2021-02-12 00:00:00
+2,CRSR,"Corsair Gaming, Inc.",2021-02-11 00:00:00
+1,CRSR,"Corsair Gaming, Inc.",2021-02-10 00:00:00
+1,CTHR,"Charles & Colvard, Ltd.",2021-02-13 00:00:00
+1,CTHR,"Charles & Colvard, Ltd.",2021-02-12 00:00:00
+1,CVS,CVS Health Corporation,2021-02-17 00:00:00
+2,CWRK,CurrencyWorks Inc.,2021-02-11 00:00:00
+2,CWRK,CurrencyWorks Inc.,2021-02-10 00:00:00
+1,CXDO,"Crexendo, Inc.",2021-02-11 00:00:00
+1,CYTH,"Cyclo Therapeutics, Inc.",2021-02-10 00:00:00
+1,D,"Dominion Energy, Inc.",2021-02-14 00:00:00
+1,DAC,Danaos Corporation,2021-02-12 00:00:00
+2,DAL,"Delta Air Lines, Inc.",2021-02-12 00:00:00
+2,DASH,"DoorDash, Inc.",2021-02-12 00:00:00
+1,DCF,"BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc.",2021-02-14 00:00:00
+2,DDOG,"Datadog, Inc.",2021-02-12 00:00:00
+1,DEEP,Roundhill Acquirers Deep Value ETF,2021-02-16 00:00:00
+2,DGX,Quest Diagnostics Incorporated,2021-02-16 00:00:00
+1,DHI,"D.R. Horton, Inc.",2021-02-11 00:00:00
+2,DIS,The Walt Disney Company,2021-02-12 00:00:00
+3,DIS,The Walt Disney Company,2021-02-11 00:00:00
+1,DIS,The Walt Disney Company,2021-02-10 00:00:00
+2,DLB,"Dolby Laboratories, Inc.",2021-02-12 00:00:00
+1,DNN,Denison Mines Corp.,2021-02-14 00:00:00
+1,DNN,Denison Mines Corp.,2021-02-13 00:00:00
+1,DOMO,"Domo, Inc.",2021-02-12 00:00:00
+2,DOW,Dow Inc.,2021-02-16 00:00:00
+1,DOW,Dow Inc.,2021-02-10 00:00:00
+1,DOYU,DouYu International Holdings Limited,2021-02-11 00:00:00
+2,Dis,The Walt Disney Company,2021-02-16 00:00:00
+3,E,Eni S.p.A.,2021-02-13 00:00:00
+1,EA,Electronic Arts Inc.,2021-02-12 00:00:00
+1,ED,"Consolidated Edison, Inc.",2021-02-11 00:00:00
+1,EDAP,EDAP TMS S.A.,2021-02-10 00:00:00
+1,EFT,Eaton Vance Floating-Rate Income Trust,2021-02-14 00:00:00
+1,ELY,Callaway Golf Company,2021-02-16 00:00:00
+1,ENTX,Entera Bio Ltd.,2021-02-13 00:00:00
+1,EPS,WisdomTree U.S. Earnings 500 Fund,2021-02-17 00:00:00
+1,EPS,WisdomTree U.S. Earnings 500 Fund,2021-02-15 00:00:00
+3,EPS,WisdomTree U.S. Earnings 500 Fund,2021-02-11 00:00:00
+1,EQ,"Equillium, Inc.",2021-02-13 00:00:00
+2,EWJ,iShares MSCI Japan ETF,2021-02-12 00:00:00
+1,EXPI,"eXp World Holdings, Inc.",2021-02-16 00:00:00
+2,EXPI,"eXp World Holdings, Inc.",2021-02-15 00:00:00
+1,EXPI,"eXp World Holdings, Inc.",2021-02-11 00:00:00
+1,EXPI,"eXp World Holdings, Inc.",2021-02-10 00:00:00
+3,F,Ford Motor Company,2021-02-15 00:00:00
+1,F,Ford Motor Company,2021-02-11 00:00:00
+2,FAS,Direxion Daily Financial Bull 3X Shares,2021-02-12 00:00:00
+1,FB,"Facebook, Inc.",2021-02-12 00:00:00
+1,FCF,First Commonwealth Financial Corporation,2021-02-10 00:00:00
+2,FCX,Freeport-McMoRan Inc.,2021-02-12 00:00:00
+1,FDHY,Fidelity High Yield Factor ETF,2021-02-14 00:00:00
+1,FDX,FedEx Corporation,2021-02-10 00:00:00
+1,FIII,Forum Merger III Corporation,2021-02-16 00:00:00
+2,FMCC,Freddie Mac,2021-02-16 00:00:00
+1,FMS,Fresenius Medical Care AG & Co. KGaA,2021-02-10 00:00:00
+1,FNKO,"Funko, Inc.",2021-02-12 00:00:00
+2,FNMA,Federal National Mortgage Association,2021-02-16 00:00:00
+1,FOLD,"Amicus Therapeutics, Inc.",2021-02-14 00:00:00
+2,FOR,Forestar Group Inc.,2021-02-12 00:00:00
+2,FORM,"FormFactor, Inc.",2021-02-13 00:00:00
+1,FOX,Fox Corporation,2021-02-15 00:00:00
+2,FREQ,"Frequency Therapeutics, Inc.",2021-02-14 00:00:00
+2,FSR,Fisker Inc.,2021-02-16 00:00:00
+4,FSR,Fisker Inc.,2021-02-12 00:00:00
+1,FTI,TechnipFMC plc,2021-02-14 00:00:00
+2,FUTU,Futu Holdings Limited,2021-02-16 00:00:00
+2,GAXY,"Galaxy Next Generation, Inc.",2021-02-12 00:00:00
+1,GE,General Electric Company,2021-02-14 00:00:00
+1,GE,General Electric Company,2021-02-13 00:00:00
+1,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity ETF,2021-02-12 00:00:00
+2,GEVO,"Gevo, Inc.",2021-02-13 00:00:00
+1,GHSI,"Guardion Health Sciences, Inc.",2021-02-11 00:00:00
+1,GILD,"Gilead Sciences, Inc.",2021-02-16 00:00:00
+2,GIS,"General Mills, Inc.",2021-02-15 00:00:00
+1,GLOP,GasLog Partners LP,2021-02-12 00:00:00
+1,GLUU,Glu Mobile Inc.,2021-02-12 00:00:00
+1,GLW,Corning Incorporated,2021-02-15 00:00:00
+2,GLW,Corning Incorporated,2021-02-11 00:00:00
+1,GM,General Motors Company,2021-02-15 00:00:00
+1,GM,General Motors Company,2021-02-14 00:00:00
+1,GM,General Motors Company,2021-02-11 00:00:00
+3,GME,GameStop Corp.,2021-02-17 00:00:00
+4,GME,GameStop Corp.,2021-02-15 00:00:00
+10,GME,GameStop Corp.,2021-02-14 00:00:00
+27,GME,GameStop Corp.,2021-02-13 00:00:00
+20,GME,GameStop Corp.,2021-02-12 00:00:00
+27,GME,GameStop Corp.,2021-02-11 00:00:00
+10,GME,GameStop Corp.,2021-02-10 00:00:00
+1,GNLN,"Greenlane Holdings, Inc.",2021-02-11 00:00:00
+2,GO,Grocery Outlet Holding Corp.,2021-02-14 00:00:00
+2,GOEV,Canoo Inc.,2021-02-12 00:00:00
+1,GOOG,Alphabet Inc.,2021-02-15 00:00:00
+1,GOOGL,Alphabet Inc.,2021-02-15 00:00:00
+1,GPN,Global Payments Inc.,2021-02-11 00:00:00
+1,GRWG,GrowGeneration Corp.,2021-02-12 00:00:00
+2,GSAT,"Globalstar, Inc.",2021-02-13 00:00:00
+1,GSAT,"Globalstar, Inc.",2021-02-10 00:00:00
+1,GTHX,"G1 Therapeutics, Inc.",2021-02-16 00:00:00
+2,GTHX,"G1 Therapeutics, Inc.",2021-02-14 00:00:00
+1,GTHX,"G1 Therapeutics, Inc.",2021-02-13 00:00:00
+1,GWPH,GW Pharmaceuticals plc,2021-02-10 00:00:00
+1,HAE,Haemonetics Corporation,2021-02-11 00:00:00
+2,HAS,"Hasbro, Inc.",2021-02-16 00:00:00
+2,HAS,"Hasbro, Inc.",2021-02-14 00:00:00
+1,HEXO,HEXO Corp.,2021-02-14 00:00:00
+1,HEXO,HEXO Corp.,2021-02-13 00:00:00
+2,HIMS,"Hims & Hers Health, Inc.",2021-02-15 00:00:00
+2,HIMX,"Himax Technologies, Inc.",2021-02-11 00:00:00
+1,HITIF,High Tide Inc.,2021-02-11 00:00:00
+1,HMNY,Helios and Matheson Analytics Inc.,2021-02-11 00:00:00
+1,HUGE,FSD Pharma Inc.,2021-02-12 00:00:00
+1,HUYA,HUYA Inc.,2021-02-13 00:00:00
+2,HUYA,HUYA Inc.,2021-02-12 00:00:00
+1,HUYA,HUYA Inc.,2021-02-11 00:00:00
+2,HYLN,Hyliion Holdings Corp.,2021-02-13 00:00:00
+6,HYLN,Hyliion Holdings Corp.,2021-02-12 00:00:00
+1,HYSR,"SunHydrogen, Inc.",2021-02-10 00:00:00
+1,ICPT,"Intercept Pharmaceuticals, Inc.",2021-02-12 00:00:00
+1,IG,Principal Investment Grade Corporate Active ETF,2021-02-12 00:00:00
+1,IGC,"India Globalization Capital, Inc.",2021-02-12 00:00:00
+1,IMMR,Immersion Corporation,2021-02-12 00:00:00
+1,INKW,"Greene Concepts, Inc.",2021-02-10 00:00:00
+1,INND,"InnerScope Hearing Technologies, Inc.",2021-02-10 00:00:00
+2,INTC,Intel Corporation,2021-02-15 00:00:00
+2,INTC,Intel Corporation,2021-02-14 00:00:00
+1,INTC,Intel Corporation,2021-02-13 00:00:00
+2,INVE,"Identiv, Inc.",2021-02-12 00:00:00
+1,IPO,Renaissance IPO ETF,2021-02-16 00:00:00
+1,IPO,Renaissance IPO ETF,2021-02-15 00:00:00
+1,IPO,Renaissance IPO ETF,2021-02-13 00:00:00
+8,IPO,Renaissance IPO ETF,2021-02-12 00:00:00
+1,IPO,Renaissance IPO ETF,2021-02-11 00:00:00
+4,IPO,Renaissance IPO ETF,2021-02-10 00:00:00
+2,IPOE,Social Capital Hedosophia Holdings Corp. V,2021-02-15 00:00:00
+2,IQ,"iQIYI, Inc.",2021-02-12 00:00:00
+1,IR,Ingersoll Rand Inc.,2021-02-13 00:00:00
+1,IRS,IRSA Inversiones y Representaciones Sociedad Anónima,2021-02-11 00:00:00
+1,IT,"Gartner, Inc.",2021-02-15 00:00:00
+2,ITM,VanEck Vectors Intermediate Muni ETF,2021-02-14 00:00:00
+2,ITM,VanEck Vectors Intermediate Muni ETF,2021-02-13 00:00:00
+1,ITP,"IT Tech Packaging, Inc.",2021-02-12 00:00:00
+1,ITRM,Iterum Therapeutics plc,2021-02-13 00:00:00
+1,JETMF,Global Crossing Airlines Group Inc.,2021-02-11 00:00:00
+1,JFU,9F Inc.,2021-02-13 00:00:00
+1,JFU,9F Inc.,2021-02-11 00:00:00
+1,JPM,JPMorgan Chase & Co.,2021-02-13 00:00:00
+1,JSDA,Jones Soda Co.,2021-02-16 00:00:00
+1,JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF,2021-02-11 00:00:00
+1,KHC,The Kraft Heinz Company,2021-02-12 00:00:00
+2,KLIC,"Kulicke and Soffa Industries, Inc.",2021-02-14 00:00:00
+2,KLIC,"Kulicke and Soffa Industries, Inc.",2021-02-11 00:00:00
+2,KO,The Coca-Cola Company,2021-02-11 00:00:00
+1,KOPN,Kopin Corporation,2021-02-14 00:00:00
+2,KRE,SPDR S&P Regional Banking ETF,2021-02-13 00:00:00
+1,KT,KT Corporation,2021-02-17 00:00:00
+1,KT,KT Corporation,2021-02-16 00:00:00
+1,KT,KT Corporation,2021-02-13 00:00:00
+1,KT,KT Corporation,2021-02-12 00:00:00
+4,KT,KT Corporation,2021-02-11 00:00:00
+2,KTOS,"Kratos Defense & Security Solutions, Inc.",2021-02-16 00:00:00
+4,L,Loews Corporation,2021-02-13 00:00:00
+1,LGVW,Longview Acquisition Corp.,2021-02-15 00:00:00
+1,LI,Li Auto Inc.,2021-02-13 00:00:00
+1,LI,Li Auto Inc.,2021-02-12 00:00:00
+2,LI,Li Auto Inc.,2021-02-10 00:00:00
+1,LINK,"Interlink Electronics, Inc.",2021-02-10 00:00:00
+2,LIVE,Live Ventures Incorporated,2021-02-12 00:00:00
+1,LMT,Lockheed Martin Corporation,2021-02-10 00:00:00
+1,LNG,"Cheniere Energy, Inc.",2021-02-10 00:00:00
+2,LOVE,The Lovesac Company,2021-02-11 00:00:00
+2,LOW,"Lowe's Companies, Inc.",2021-02-15 00:00:00
+2,LPCN,Lipocine Inc.,2021-02-10 00:00:00
+1,LVVV,"Livewire Ergogenics, Inc.",2021-02-11 00:00:00
+1,LYV,"Live Nation Entertainment, Inc.",2021-02-11 00:00:00
+1,MARA,"Marathon Patent Group, Inc.",2021-02-10 00:00:00
+1,MAXD,Max Sound Corporation,2021-02-13 00:00:00
+2,MESO,Mesoblast Limited,2021-02-13 00:00:00
+1,MFA,"MFA Financial, Inc.",2021-02-13 00:00:00
+1,MGM,MGM Resorts International,2021-02-11 00:00:00
+1,MGNI,"Magnite, Inc.",2021-02-12 00:00:00
+1,MJ,ETFMG Alternative Harvest ETF,2021-02-14 00:00:00
+2,MJ,ETFMG Alternative Harvest ETF,2021-02-12 00:00:00
+1,MJ,ETFMG Alternative Harvest ETF,2021-02-10 00:00:00
+1,MJNA,"Medical Marijuana, Inc.",2021-02-10 00:00:00
+3,MMNFF,MedMen Enterprises Inc.,2021-02-10 00:00:00
+4,MO,"Altria Group, Inc.",2021-02-17 00:00:00
+2,MOR,MorphoSys AG,2021-02-12 00:00:00
+2,MOS,The Mosaic Company,2021-02-11 00:00:00
+1,MSFT,Microsoft Corporation,2021-02-16 00:00:00
+1,MSFT,Microsoft Corporation,2021-02-15 00:00:00
+1,MSFT,Microsoft Corporation,2021-02-12 00:00:00
+1,MSOS,AdvisorShares Pure US Cannabis ETF,2021-02-12 00:00:00
+2,MT,ArcelorMittal,2021-02-17 00:00:00
+2,MT,ArcelorMittal,2021-02-11 00:00:00
+1,MUST,Columbia Multi-Sector Municipal Income ETF,2021-02-14 00:00:00
+4,MVIS,"MicroVision, Inc.",2021-02-14 00:00:00
+4,MVIS,"MicroVision, Inc.",2021-02-13 00:00:00
+2,MVIS,"MicroVision, Inc.",2021-02-12 00:00:00
+1,MX,MagnaChip Semiconductor Corporation,2021-02-13 00:00:00
+1,NAK,Northern Dynasty Minerals Ltd.,2021-02-11 00:00:00
+2,NAT,Nordic American Tankers Limited,2021-02-12 00:00:00
+1,NCLH,Norwegian Cruise Line Holdings Ltd.,2021-02-11 00:00:00
+1,NCMI,"National CineMedia, Inc.",2021-02-13 00:00:00
+1,NEBC,Nebula Caravel Acquisition Corp.,2021-02-13 00:00:00
+2,NET,"Cloudflare, Inc.",2021-02-13 00:00:00
+1,NET,"Cloudflare, Inc.",2021-02-11 00:00:00
+2,NEW,Puxin Limited,2021-02-12 00:00:00
+1,NEXT,NextDecade Corporation,2021-02-11 00:00:00
+2,NIO,NIO Limited,2021-02-16 00:00:00
+2,NIO,NIO Limited,2021-02-15 00:00:00
+2,NIO,NIO Limited,2021-02-13 00:00:00
+1,NIO,NIO Limited,2021-02-12 00:00:00
+2,NMRK,"Newmark Group, Inc.",2021-02-16 00:00:00
+1,NMTC,NeuroOne Medical Technologies Corporation,2021-02-14 00:00:00
+4,NOK,Nokia Corporation,2021-02-14 00:00:00
+2,NOK,Nokia Corporation,2021-02-13 00:00:00
+1,NOK,Nokia Corporation,2021-02-12 00:00:00
+1,NOK,Nokia Corporation,2021-02-11 00:00:00
+2,NOW,"ServiceNow, Inc.",2021-02-16 00:00:00
+1,NOW,"ServiceNow, Inc.",2021-02-10 00:00:00
+1,NSPR,"InspireMD, Inc.",2021-02-11 00:00:00
+1,NTDOY,"Nintendo Co., Ltd.",2021-02-16 00:00:00
+2,NTDOY,"Nintendo Co., Ltd.",2021-02-11 00:00:00
+1,NUMI.V,Numinus Wellness Inc.,2021-02-11 00:00:00
+2,NVAX,"Novavax, Inc.",2021-02-11 00:00:00
+1,NVCN,Neovasc Inc.,2021-02-12 00:00:00
+2,NVDA,NVIDIA Corporation,2021-02-16 00:00:00
+1,NVDA,NVIDIA Corporation,2021-02-15 00:00:00
+2,NVDA,NVIDIA Corporation,2021-02-12 00:00:00
+1,NVO,Novo Nordisk A/S,2021-02-15 00:00:00
+2,NVTA,Invitae Corporation,2021-02-11 00:00:00
+1,NXTTF,Namaste Technologies Inc.,2021-02-11 00:00:00
+1,NYMT,"New York Mortgage Trust, Inc.",2021-02-13 00:00:00
+2,OCGN,"Ocugen, Inc.",2021-02-10 00:00:00
+1,OGI,OrganiGram Holdings Inc.,2021-02-10 00:00:00
+2,OIL,iPath Pure Beta Crude Oil ETN,2021-02-12 00:00:00
+1,OLED,Universal Display Corporation,2021-02-17 00:00:00
+1,OLED,Universal Display Corporation,2021-02-13 00:00:00
+6,ON,ON Semiconductor Corporation,2021-02-12 00:00:00
+4,ON,ON Semiconductor Corporation,2021-02-11 00:00:00
+2,ON,ON Semiconductor Corporation,2021-02-10 00:00:00
+2,OPEN,Opendoor Technologies Inc.,2021-02-16 00:00:00
+4,OPEN,Opendoor Technologies Inc.,2021-02-13 00:00:00
+1,OPEN,Opendoor Technologies Inc.,2021-02-10 00:00:00
+1,OPK,"OPKO Health, Inc.",2021-02-11 00:00:00
+1,OPRA,Opera Limited,2021-02-11 00:00:00
+2,OR,Osisko Gold Royalties Ltd,2021-02-13 00:00:00
+2,OSK,Oshkosh Corporation,2021-02-14 00:00:00
+2,OSK,Oshkosh Corporation,2021-02-13 00:00:00
+2,OSTK,"Overstock.com, Inc.",2021-02-15 00:00:00
+1,OSUR,"OraSure Technologies, Inc.",2021-02-11 00:00:00
+1,OTLK,"Outlook Therapeutics, Inc.",2021-02-17 00:00:00
+1,OTLK,"Outlook Therapeutics, Inc.",2021-02-10 00:00:00
+2,OUT,Outfront Media Inc. (REIT),2021-02-16 00:00:00
+1,PBF,PBF Energy Inc.,2021-02-11 00:00:00
+1,PDT,John Hancock Premium Dividend Fund,2021-02-11 00:00:00
+1,PENN,"Penn National Gaming, Inc.",2021-02-11 00:00:00
+1,PEP,"PepsiCo, Inc.",2021-02-14 00:00:00
+1,PEP,"PepsiCo, Inc.",2021-02-13 00:00:00
+1,PFE,Pfizer Inc.,2021-02-12 00:00:00
+1,PGR,The Progressive Corporation,2021-02-11 00:00:00
+1,PGRE,"Paramount Group, Inc.",2021-02-16 00:00:00
+1,PHI,PLDT Inc.,2021-02-16 00:00:00
+1,PHI,PLDT Inc.,2021-02-15 00:00:00
+1,PHI,PLDT Inc.,2021-02-13 00:00:00
+2,PHIL,PHI Group Inc.,2021-02-16 00:00:00
+2,PHIL,PHI Group Inc.,2021-02-15 00:00:00
+2,PLAY,"Dave & Buster's Entertainment, Inc.",2021-02-12 00:00:00
+8,PLTR,Palantir Technologies Inc.,2021-02-16 00:00:00
+1,PLTR,Palantir Technologies Inc.,2021-02-15 00:00:00
+11,PLTR,Palantir Technologies Inc.,2021-02-13 00:00:00
+2,PLTR,Palantir Technologies Inc.,2021-02-12 00:00:00
+4,PLTR,Palantir Technologies Inc.,2021-02-11 00:00:00
+2,PLUG,Plug Power Inc.,2021-02-16 00:00:00
+1,PLUG,Plug Power Inc.,2021-02-12 00:00:00
+1,PNG.V,Kraken Robotics Inc.,2021-02-11 00:00:00
+1,POWW,"AMMO, Inc.",2021-02-16 00:00:00
+1,POWW,"AMMO, Inc.",2021-02-15 00:00:00
+1,POWW,"AMMO, Inc.",2021-02-12 00:00:00
+2,PPLT,Aberdeen Standard Physical Platinum Shares ETF,2021-02-11 00:00:00
+1,PRCH,Porch Group Inc.,2021-02-12 00:00:00
+1,PRTS,"CarParts.com, Inc.",2021-02-10 00:00:00
+2,PSLV,Sprott Physical Silver Trust,2021-02-16 00:00:00
+2,PSTH,"Pershing Square Tontine Holdings, Ltd.",2021-02-13 00:00:00
+2,PSX,Phillips 66,2021-02-12 00:00:00
+1,PYPL,"PayPal Holdings, Inc.",2021-02-12 00:00:00
+1,QQQ,Invesco QQQ Trust,2021-02-16 00:00:00
+1,QQQ,Invesco QQQ Trust,2021-02-15 00:00:00
+1,QQQ,Invesco QQQ Trust,2021-02-14 00:00:00
+1,QQQ,Invesco QQQ Trust,2021-02-12 00:00:00
+2,QS,QuantumScape Corporation,2021-02-13 00:00:00
+1,QS,QuantumScape Corporation,2021-02-10 00:00:00
+1,QUBT,Quantum Computing Inc.,2021-02-11 00:00:00
+3,RAD,Rite Aid Corporation,2021-02-11 00:00:00
+2,RAVI,FlexShares Ready Access Variable Income Fund,2021-02-16 00:00:00
+2,RAVI,FlexShares Ready Access Variable Income Fund,2021-02-13 00:00:00
+1,RBCN,"Rubicon Technology, Inc.",2021-02-11 00:00:00
+2,RCL,Royal Caribbean Group,2021-02-12 00:00:00
+1,RCL,Royal Caribbean Group,2021-02-11 00:00:00
+2,RDFN,Redfin Corporation,2021-02-11 00:00:00
+3,REAL,"The RealReal, Inc.",2021-02-13 00:00:00
+1,REGI,"Renewable Energy Group, Inc.",2021-02-14 00:00:00
+1,REI,"Ring Energy, Inc.",2021-02-12 00:00:00
+1,RESN,Resonant Inc.,2021-02-11 00:00:00
+2,RH,RH,2021-02-15 00:00:00
+2,RH,RH,2021-02-14 00:00:00
+2,RH,RH,2021-02-13 00:00:00
+1,RH,RH,2021-02-12 00:00:00
+1,RH,RH,2021-02-11 00:00:00
+1,RHHBY,Roche Holding AG,2021-02-13 00:00:00
+1,RIDE,Lordstown Motors Corp.,2021-02-12 00:00:00
+2,RIGL,"Rigel Pharmaceuticals, Inc.",2021-02-12 00:00:00
+2,RKT,"Rocket Companies, Inc.",2021-02-16 00:00:00
+2,RKT,"Rocket Companies, Inc.",2021-02-13 00:00:00
+2,RKT,"Rocket Companies, Inc.",2021-02-12 00:00:00
+1,RKT,"Rocket Companies, Inc.",2021-02-10 00:00:00
+1,RLGT,"Radiant Logistics, Inc.",2021-02-12 00:00:00
+1,RLTR,"Reeltime Rentals, Inc.",2021-02-12 00:00:00
+1,RMO,"Romeo Power, Inc.",2021-02-11 00:00:00
+2,RNA,"Avidity Biosciences, Inc.",2021-02-14 00:00:00
+1,ROI,WisdomTree LargeCap Growth Fund,2021-02-14 00:00:00
+2,ROI,WisdomTree LargeCap Growth Fund,2021-02-12 00:00:00
+2,ROI,WisdomTree LargeCap Growth Fund,2021-02-11 00:00:00
+2,ROXG.TO,Roxgold Inc.,2021-02-12 00:00:00
+1,RRGB,"Red Robin Gourmet Burgers, Inc.",2021-02-13 00:00:00
+1,RSI,"Rush Street Interactive, Inc.",2021-02-16 00:00:00
+1,RTON,"Right On Brands, Inc.",2021-02-11 00:00:00
+1,RYCEY,Rolls-Royce Holdings plc,2021-02-12 00:00:00
+1,SBE,Switchback Energy Acquisition Corporation,2021-02-14 00:00:00
+1,SC,Santander Consumer USA Holdings Inc.,2021-02-11 00:00:00
+2,SCI,Service Corporation International,2021-02-12 00:00:00
+1,SDC,"SmileDirectClub, Inc.",2021-02-12 00:00:00
+2,SENS,"Senseonics Holdings, Inc.",2021-02-14 00:00:00
+2,SENS,"Senseonics Holdings, Inc.",2021-02-13 00:00:00
+2,SENS,"Senseonics Holdings, Inc.",2021-02-12 00:00:00
+1,SGMD,"Sugarmade, Inc.",2021-02-14 00:00:00
+1,SHIP,Seanergy Maritime Holdings Corp.,2021-02-10 00:00:00
+1,SHLX,"Shell Midstream Partners, L.P.",2021-02-11 00:00:00
+1,SHOP,Shopify Inc.,2021-02-16 00:00:00
+2,SJM,The J. M. Smucker Company,2021-02-13 00:00:00
+2,SKM,"SK Telecom Co.,Ltd",2021-02-13 00:00:00
+1,SKT,"Tanger Factory Outlet Centers, Inc.",2021-02-10 00:00:00
+2,SLV,iShares Silver Trust,2021-02-16 00:00:00
+2,SLV,iShares Silver Trust,2021-02-15 00:00:00
+1,SLV,iShares Silver Trust,2021-02-13 00:00:00
+1,SMH,VanEck Vectors Semiconductor ETF,2021-02-15 00:00:00
+1,SNAP,Snap Inc.,2021-02-14 00:00:00
+1,SND,"Smart Sand, Inc.",2021-02-12 00:00:00
+3,SNDL,Sundial Growers Inc.,2021-02-16 00:00:00
+1,SNDL,Sundial Growers Inc.,2021-02-15 00:00:00
+4,SNDL,Sundial Growers Inc.,2021-02-13 00:00:00
+14,SNDL,Sundial Growers Inc.,2021-02-12 00:00:00
+13,SNDL,Sundial Growers Inc.,2021-02-11 00:00:00
+1,SNDL,Sundial Growers Inc.,2021-02-10 00:00:00
+1,SNPW,Sun Pacific Holding Corp.,2021-02-10 00:00:00
+1,SOS,SOS Limited,2021-02-14 00:00:00
+2,SPCE,"Virgin Galactic Holdings, Inc.",2021-02-16 00:00:00
+2,SPCE,"Virgin Galactic Holdings, Inc.",2021-02-15 00:00:00
+2,SPCE,"Virgin Galactic Holdings, Inc.",2021-02-13 00:00:00
+4,SPCE,"Virgin Galactic Holdings, Inc.",2021-02-12 00:00:00
+2,SPCE,"Virgin Galactic Holdings, Inc.",2021-02-11 00:00:00
+3,SPCE,"Virgin Galactic Holdings, Inc.",2021-02-10 00:00:00
+1,SPRQ,Spartan Acquisition Corp. II,2021-02-13 00:00:00
+1,SPXL,Direxion Daily S&P500 Bull 3X Shares,2021-02-14 00:00:00
+2,SPY,SPDR S&P 500 ETF Trust,2021-02-17 00:00:00
+1,SPY,SPDR S&P 500 ETF Trust,2021-02-15 00:00:00
+1,SPY,SPDR S&P 500 ETF Trust,2021-02-14 00:00:00
+1,SPY,SPDR S&P 500 ETF Trust,2021-02-13 00:00:00
+2,SQ,"Square, Inc.",2021-02-16 00:00:00
+1,SQ,"Square, Inc.",2021-02-15 00:00:00
+1,SRNE,"Sorrento Therapeutics, Inc.",2021-02-15 00:00:00
+1,SRNE,"Sorrento Therapeutics, Inc.",2021-02-11 00:00:00
+1,SSRM,SSR Mining Inc.,2021-02-10 00:00:00
+1,SU,Suncor Energy Inc.,2021-02-12 00:00:00
+2,SUBZ,Listed Funds Trust - Roundhill Streaming Services & Technology ETF,2021-02-13 00:00:00
+1,SUBZ,Listed Funds Trust - Roundhill Streaming Services & Technology ETF,2021-02-11 00:00:00
+1,SWPPX,Schwab S&P 500 Index Fund,2021-02-14 00:00:00
+2,T,AT&T Inc.,2021-02-16 00:00:00
+1,T,AT&T Inc.,2021-02-13 00:00:00
+1,TA,TravelCenters of America Inc.,2021-02-11 00:00:00
+1,TA,TravelCenters of America Inc.,2021-02-10 00:00:00
+1,TBLT,"ToughBuilt Industries, Inc.",2021-02-10 00:00:00
+2,TBT,ProShares UltraShort 20+ Year Treasury,2021-02-14 00:00:00
+1,TD,The Toronto-Dominion Bank,2021-02-16 00:00:00
+3,TD,The Toronto-Dominion Bank,2021-02-13 00:00:00
+1,TD,The Toronto-Dominion Bank,2021-02-12 00:00:00
+2,TD,The Toronto-Dominion Bank,2021-02-11 00:00:00
+1,TECL,Direxion Daily Technology Bull 3X Shares,2021-02-15 00:00:00
+2,TFFP,"TFF Pharmaceuticals, Inc.",2021-02-14 00:00:00
+1,THC,Tenet Healthcare Corporation,2021-02-15 00:00:00
+1,THC,Tenet Healthcare Corporation,2021-02-14 00:00:00
+1,TIXT,TELUS International (Cda) Inc.,2021-02-13 00:00:00
+1,TK,Teekay Corporation,2021-02-11 00:00:00
+3,TLRY,"Tilray, Inc.",2021-02-17 00:00:00
+3,TLRY,"Tilray, Inc.",2021-02-13 00:00:00
+3,TLRY,"Tilray, Inc.",2021-02-12 00:00:00
+30,TLRY,"Tilray, Inc.",2021-02-11 00:00:00
+9,TLRY,"Tilray, Inc.",2021-02-10 00:00:00
+1,TNXP,Tonix Pharmaceuticals Holding Corp.,2021-02-16 00:00:00
+1,TRTC,Terra Tech Corp.,2021-02-11 00:00:00
+2,TRVG,trivago N.V.,2021-02-13 00:00:00
+2,TRXC,"TransEnterix, Inc.",2021-02-11 00:00:00
+1,TSLA,"Tesla, Inc.",2021-02-17 00:00:00
+1,TSLA,"Tesla, Inc.",2021-02-16 00:00:00
+4,TSLA,"Tesla, Inc.",2021-02-14 00:00:00
+7,TSLA,"Tesla, Inc.",2021-02-13 00:00:00
+2,TSLA,"Tesla, Inc.",2021-02-12 00:00:00
+3,TSM,Taiwan Semiconductor Manufacturing Company Limited,2021-02-16 00:00:00
+2,TSM,Taiwan Semiconductor Manufacturing Company Limited,2021-02-12 00:00:00
+2,TSN,"Tyson Foods, Inc.",2021-02-13 00:00:00
+1,TTM,Tata Motors Limited,2021-02-15 00:00:00
+1,TTM,Tata Motors Limited,2021-02-12 00:00:00
+1,TV,"Grupo Televisa, S.A.B.",2021-02-10 00:00:00
+1,TWOU,"2U, Inc.",2021-02-12 00:00:00
+1,TXMD,"TherapeuticsMD, Inc.",2021-02-16 00:00:00
+1,TXMD,"TherapeuticsMD, Inc.",2021-02-11 00:00:00
+1,U,Unity Software Inc.,2021-02-10 00:00:00
+1,UBER,"Uber Technologies, Inc.",2021-02-12 00:00:00
+1,UBQU,Ubiquitech Software Corp.,2021-02-11 00:00:00
+2,UBS,UBS Group AG,2021-02-14 00:00:00
+1,UBS,UBS Group AG,2021-02-13 00:00:00
+2,UBS,UBS Group AG,2021-02-12 00:00:00
+2,UBS,UBS Group AG,2021-02-11 00:00:00
+1,UCTT,"Ultra Clean Holdings, Inc.",2021-02-16 00:00:00
+1,UK,Ucommune International Ltd,2021-02-15 00:00:00
+1,UK,Ucommune International Ltd,2021-02-12 00:00:00
+2,UK,Ucommune International Ltd,2021-02-11 00:00:00
+2,UL,Unilever PLC,2021-02-15 00:00:00
+1,USD,ProShares Ultra Semiconductors,2021-02-14 00:00:00
+3,USD,ProShares Ultra Semiconductors,2021-02-13 00:00:00
+1,USD,ProShares Ultra Semiconductors,2021-02-12 00:00:00
+1,USD,ProShares Ultra Semiconductors,2021-02-11 00:00:00
+1,USO,"United States Oil Fund, LP",2021-02-11 00:00:00
+4,USPS,"Ultimate Sports, Inc.",2021-02-11 00:00:00
+1,UUUU,Energy Fuels Inc.,2021-02-11 00:00:00
+1,UVXY,ProShares Ultra VIX Short-Term Futures ETF,2021-02-14 00:00:00
+2,UVXY,ProShares Ultra VIX Short-Term Futures ETF,2021-02-13 00:00:00
+1,UWMC,UWM Holdings Corporation Class,2021-02-12 00:00:00
+2,V,Visa Inc.,2021-02-13 00:00:00
+2,V,Visa Inc.,2021-02-12 00:00:00
+1,VBIV,VBI Vaccines Inc.,2021-02-17 00:00:00
+2,VBIV,VBI Vaccines Inc.,2021-02-11 00:00:00
+1,VBIV,VBI Vaccines Inc.,2021-02-10 00:00:00
+4,VFF,"Village Farms International, Inc.",2021-02-11 00:00:00
+1,VFIAX,Vanguard 500 Index Fund Admiral Shares,2021-02-12 00:00:00
+1,VGAC,VG Acquisition Corp.,2021-02-14 00:00:00
+1,VGAC,VG Acquisition Corp.,2021-02-13 00:00:00
+1,VGAC,VG Acquisition Corp.,2021-02-11 00:00:00
+1,VIAC,ViacomCBS Inc.,2021-02-16 00:00:00
+1,VIBI,Vilacto Bio Inc.,2021-02-12 00:00:00
+1,VITL,"Vital Farms, Inc.",2021-02-13 00:00:00
+1,VMSI,"Vita Mobile Systems, Inc.",2021-02-11 00:00:00
+1,VOO,Vanguard S&P 500 ETF,2021-02-15 00:00:00
+1,VOO,Vanguard S&P 500 ETF,2021-02-14 00:00:00
+1,VRT,Vertiv Holdings Co.,2021-02-15 00:00:00
+1,VS,Versus Systems Inc.,2021-02-14 00:00:00
+2,VS,Versus Systems Inc.,2021-02-12 00:00:00
+1,VT,Vanguard Total World Stock Index Fund ETF Shares,2021-02-15 00:00:00
+1,VTI,Vanguard Total Stock Market Index Fund ETF Shares,2021-02-14 00:00:00
+1,VTI,Vanguard Total Stock Market Index Fund ETF Shares,2021-02-13 00:00:00
+1,VTI,Vanguard Total Stock Market Index Fund ETF Shares,2021-02-11 00:00:00
+1,VUZI,Vuzix Corporation,2021-02-12 00:00:00
+1,VXRT,"Vaxart, Inc.",2021-02-12 00:00:00
+2,WDC,Western Digital Corporation,2021-02-12 00:00:00
+1,WDLF,"Social Life Network, Inc.",2021-02-11 00:00:00
+1,WEED.TO,Canopy Growth Corporation,2021-02-10 00:00:00
+1,WFC,Wells Fargo & Company,2021-02-13 00:00:00
+2,WHEN,"World Health Energy Holdings, Inc.",2021-02-11 00:00:00
+1,WISH,ContextLogic Inc.,2021-02-13 00:00:00
+4,WKHS,Workhorse Group Inc.,2021-02-11 00:00:00
+1,WMC,Western Asset Mortgage Capital Corporation,2021-02-13 00:00:00
+1,WMT,Walmart Inc.,2021-02-12 00:00:00
+1,XERS,"Xeris Pharmaceuticals, Inc.",2021-02-12 00:00:00
+1,XL,XL Fleet Corp.,2021-02-10 00:00:00
+1,XLE,Energy Select Sector SPDR Fund,2021-02-11 00:00:00
+2,XM,Qualtrics International Inc.,2021-02-14 00:00:00
+2,XOM,Exxon Mobil Corporation,2021-02-14 00:00:00
+1,XPEV,XPeng Inc.,2021-02-13 00:00:00
+1,XPO,"XPO Logistics, Inc.",2021-02-11 00:00:00
+1,XSPA,"XpresSpa Group, Inc.",2021-02-10 00:00:00
+1,Y,Alleghany Corporation,2021-02-15 00:00:00
+1,YINN,Direxion Daily FTSE China Bull 3X Shares,2021-02-12 00:00:00
+1,ZEST,"Ecoark Holdings, Inc.",2021-02-11 00:00:00
+2,ZNGA,Zynga Inc.,2021-02-15 00:00:00
+1,ZNGA,Zynga Inc.,2021-02-12 00:00:00
+2,ZOM,Zomedica Corp.,2021-02-13 00:00:00
+2,ZOM,Zomedica Corp.,2021-02-12 00:00:00
+4,ZOM,Zomedica Corp.,2021-02-11 00:00:00
+2,ZSAN,Zosano Pharma Corporation,2021-02-11 00:00:00
+1,ZSAN,Zosano Pharma Corporation,2021-02-10 00:00:00
+1,^GSPC,S&P 500,2021-02-14 00:00:00
+2,f,Ford Motor Company,2021-02-15 00:00:00
+1,feng,Phoenix New Media Limited,2021-02-14 00:00:00
+1,mtnb,"Matinas BioPharma Holdings, Inc.",2021-02-11 00:00:00

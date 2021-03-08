@@ -1,0 +1,437 @@
+num_mentions,stock_ticker,stock_name
+63,GME,GameStop Corp.
+34,TLRY,"Tilray, Inc."
+28,APHA,Aphria Inc.
+25,SNDL,Sundial Growers Inc.
+19,AMC,"AMC Entertainment Holdings, Inc."
+15,IPO,Renaissance IPO ETF
+14,PLTR,Palantir Technologies Inc.
+12,AMD,"Advanced Micro Devices, Inc."
+11,TSLA,"Tesla, Inc."
+10,SPCE,"Virgin Galactic Holdings, Inc."
+10,BB,BlackBerry Limited
+9,ON,ON Semiconductor Corporation
+9,CRSR,"Corsair Gaming, Inc."
+9,CEO,CNOOC Limited
+8,RH,RH
+7,ZOM,Zomedica Corp.
+7,NIO,NIO Limited
+7,TD,The Toronto-Dominion Bank
+6,COTY,Coty Inc.
+5,NOK,Nokia Corporation
+5,MVIS,"MicroVision, Inc."
+5,USD,ProShares Ultra Semiconductors
+5,BOTY,"Lingerie Fighting Championships, Inc."
+5,MSFT,Microsoft Corporation
+5,EXPI,"eXp World Holdings, Inc."
+5,BMBL,Bumble Inc.
+4,CWRK,CurrencyWorks Inc.
+4,PHIL,PHI Group Inc.
+4,HYLN,Hyliion Holdings Corp.
+4,UBS,UBS Group AG
+4,KT,KT Corporation
+4,QQQ,Invesco QQQ Trust
+4,RKT,"Rocket Companies, Inc."
+4,DIS,The Walt Disney Company
+4,SENS,"Senseonics Holdings, Inc."
+4,FSR,Fisker Inc.
+4,AM,Antero Midstream Corporation
+4,LI,Li Auto Inc.
+4,AI,"C3.ai, Inc."
+4,OPEN,Opendoor Technologies Inc.
+4,CCIV,Churchill Capital Corp IV
+4,MJ,ETFMG Alternative Harvest ETF
+3,F,Ford Motor Company
+3,GE,General Electric Company
+3,GM,General Motors Company
+3,ZSAN,Zosano Pharma Corporation
+3,ARKG,ARK Genomic Revolution ETF
+3,GTHX,"G1 Therapeutics, Inc."
+3,VTI,Vanguard Total Stock Market Index Fund ETF Shares
+3,SPY,SPDR S&P 500 ETF Trust
+3,VBIV,VBI Vaccines Inc.
+3,ASYS,"Amtech Systems, Inc."
+3,EPS,WisdomTree U.S. Earnings 500 Fund
+3,ROI,WisdomTree LargeCap Growth Fund
+3,INTC,Intel Corporation
+3,ARKK,ARK Innovation ETF
+3,UK,Ucommune International Ltd
+3,TSM,Taiwan Semiconductor Manufacturing Company Limited
+3,PHI,PLDT Inc.
+3,KLIC,"Kulicke and Soffa Industries, Inc."
+3,MMNFF,MedMen Enterprises Inc.
+3,AMZN,"Amazon.com, Inc."
+3,GSAT,"Globalstar, Inc."
+3,POWW,"AMMO, Inc."
+3,VGAC,VG Acquisition Corp.
+3,SND,"Smart Sand, Inc."
+3,HUYA,HUYA Inc.
+3,SLV,iShares Silver Trust
+3,NVDA,NVIDIA Corporation
+3,PLUG,Plug Power Inc.
+2,OCGN,"Ocugen, Inc."
+2,QS,QuantumScape Corporation
+2,REAL,"The RealReal, Inc."
+2,NAT,Nordic American Tankers Limited
+2,AMKR,"Amkor Technology, Inc."
+2,ZNGA,Zynga Inc.
+2,CGC,Canopy Growth Corporation
+2,KOPN,Kopin Corporation
+2,ABNB,"Airbnb, Inc."
+2,BLDV,"Blue Diamond Ventures, Inc."
+2,VXRT,"Vaxart, Inc."
+2,GLW,Corning Incorporated
+2,HEXO,HEXO Corp.
+2,DOW,Dow Inc.
+2,BEP,Brookfield Renewable Partners L.P.
+2,f,Ford Motor Company
+2,AFC,Allied Capital Corporation NT 6.875 2047
+2,OSK,Oshkosh Corporation
+2,SUBZ,Listed Funds Trust - Roundhill Streaming Services & Technology ETF
+2,GAXY,"Galaxy Next Generation, Inc."
+2,LPCN,Lipocine Inc.
+2,JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF
+2,CRSP,CRISPR Therapeutics AG
+2,BIG,"Big Lots, Inc."
+2,E,Eni S.p.A.
+2,CTHR,"Charles & Colvard, Ltd."
+2,UVXY,ProShares Ultra VIX Short-Term Futures ETF
+2,HAS,"Hasbro, Inc."
+2,FMS,Fresenius Medical Care AG & Co. KGaA
+2,VOO,Vanguard S&P 500 ETF
+2,TFFP,"TFF Pharmaceuticals, Inc."
+2,RAVI,FlexShares Ready Access Variable Income Fund
+2,DNN,Denison Mines Corp.
+2,RCL,Royal Caribbean Group
+2,TXMD,"TherapeuticsMD, Inc."
+2,TTM,Tata Motors Limited
+2,JFU,9F Inc.
+2,PEP,"PepsiCo, Inc."
+2,FOR,Forestar Group Inc.
+2,INVE,"Identiv, Inc."
+2,XRT,SPDR S&P Retail ETF
+2,NET,"Cloudflare, Inc."
+2,TA,TravelCenters of America Inc.
+2,CYTH,"Cyclo Therapeutics, Inc."
+2,RAD,Rite Aid Corporation
+2,ATVI,"Activision Blizzard, Inc."
+2,ITM,VanEck Vectors Intermediate Muni ETF
+2,NTDOY,"Nintendo Co., Ltd."
+2,NVAX,"Novavax, Inc."
+2,V,Visa Inc.
+2,CLUBQ,"Town Sports International Holdings, Inc."
+2,L,Loews Corporation
+2,T,AT&T Inc.
+2,WKHS,Workhorse Group Inc.
+2,USPS,"Ultimate Sports, Inc."
+2,KO,The Coca-Cola Company
+2,MGM,MGM Resorts International
+2,THC,Tenet Healthcare Corporation
+2,AIV,Apartment Investment and Management Company
+2,VS,Versus Systems Inc.
+2,BALY,"Bally's Corporation"
+2,NOW,"ServiceNow, Inc."
+2,ACB,Aurora Cannabis Inc.
+2,VFF,"Village Farms International, Inc."
+2,RIGL,"Rigel Pharmaceuticals, Inc."
+2,SQ,"Square, Inc."
+2,AFRM,"Affirm Holdings, Inc."
+2,API,"Agora, Inc."
+2,SRNE,"Sorrento Therapeutics, Inc."
+1,SNPW,Sun Pacific Holding Corp.
+1,BLSP,Blue Sphere Corporation
+1,AR,Antero Resources Corporation
+1,AUY,Yamana Gold Inc.
+1,CECE,CECO Environmental Corp.
+1,SKM,"SK Telecom Co.,Ltd"
+1,CRBP,"Corbus Pharmaceuticals Holdings, Inc."
+1,Dis,The Walt Disney Company
+1,BBY,"Best Buy Co., Inc."
+1,NEBC,Nebula Caravel Acquisition Corp.
+1,IPOE,Social Capital Hedosophia Holdings Corp. V
+1,UWMC,UWM Holdings Corporation Class
+1,FCF,First Commonwealth Financial Corporation
+1,HMNY,Helios and Matheson Analytics Inc.
+1,NXTTF,Namaste Technologies Inc.
+1,FTI,TechnipFMC plc
+1,NSPR,"InspireMD, Inc."
+1,GRWG,GrowGeneration Corp.
+1,AEO,"American Eagle Outfitters, Inc."
+1,PGRE,"Paramount Group, Inc."
+1,ALPP,"Alpine 4 Technologies, Ltd."
+1,EDAP,EDAP TMS S.A.
+1,DAL,"Delta Air Lines, Inc."
+1,^GSPC,S&P 500
+1,EA,Electronic Arts Inc.
+1,FB,"Facebook, Inc."
+1,LIVE,Live Ventures Incorporated
+1,SPRQ,Spartan Acquisition Corp. II
+1,PPLT,Aberdeen Standard Physical Platinum Shares ETF
+1,OIL,iPath Pure Beta Crude Oil ETN
+1,BNED,"Barnes & Noble Education, Inc."
+1,GLOP,GasLog Partners LP
+1,D,"Dominion Energy, Inc."
+1,JSDA,Jones Soda Co.
+1,CRMD,CorMedix Inc.
+1,JPM,JPMorgan Chase & Co.
+1,ADAG,Adagene Inc.
+1,ITRM,Iterum Therapeutics plc
+1,VITL,"Vital Farms, Inc."
+1,MESO,Mesoblast Limited
+1,CGNT,Cognyte Software Ltd.
+1,BSQR,BSQUARE Corporation
+1,CLF,Cleveland-Cliffs Inc.
+1,GIS,"General Mills, Inc."
+1,WEED.TO,Canopy Growth Corporation
+1,SGMD,"Sugarmade, Inc."
+1,USO,"United States Oil Fund, LP"
+1,NEXT,NextDecade Corporation
+1,XL,XL Fleet Corp.
+1,LVVV,"Livewire Ergogenics, Inc."
+1,ITP,"IT Tech Packaging, Inc."
+1,SKT,"Tanger Factory Outlet Centers, Inc."
+1,OTLK,"Outlook Therapeutics, Inc."
+1,TSN,"Tyson Foods, Inc."
+1,FREQ,"Frequency Therapeutics, Inc."
+1,TBT,ProShares UltraShort 20+ Year Treasury
+1,AP,Ampco-Pittsburgh Corporation
+1,CBDHF,Hempfusion Wellness Inc.
+1,UBER,"Uber Technologies, Inc."
+1,REI,"Ring Energy, Inc."
+1,SHIP,Seanergy Maritime Holdings Corp.
+1,BNY,BlackRock New York Municipal Income Trust
+1,VUZI,Vuzix Corporation
+1,BCP.LS,"Banco Comercial Português, S.A."
+1,GILD,"Gilead Sciences, Inc."
+1,RIDE,Lordstown Motors Corp.
+1,CLOV,"Clover Health Investments, Corp."
+1,MX,MagnaChip Semiconductor Corporation
+1,TRXC,"TransEnterix, Inc."
+1,MOR,MorphoSys AG
+1,DDOG,"Datadog, Inc."
+1,LOVE,The Lovesac Company
+1,UUUU,Energy Fuels Inc.
+1,SHLX,"Shell Midstream Partners, L.P."
+1,HYSR,"SunHydrogen, Inc."
+1,ARKQ,ARK Autonomous Technology & Robotics ETF
+1,OSUR,"OraSure Technologies, Inc."
+1,OGI,OrganiGram Holdings Inc.
+1,FNMA,Federal National Mortgage Association
+1,IMMR,Immersion Corporation
+1,DCF,"BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc."
+1,FCX,Freeport-McMoRan Inc.
+1,WISH,ContextLogic Inc.
+1,CRON,Cronos Group Inc.
+1,RBCN,"Rubicon Technology, Inc."
+1,MAXD,Max Sound Corporation
+1,BP,BP p.l.c.
+1,CMBM,Cambium Networks Corporation
+1,WMC,Western Asset Mortgage Capital Corporation
+1,AGI,Alamos Gold Inc.
+1,LNG,"Cheniere Energy, Inc."
+1,BNTX,BioNTech SE
+1,XPO,"XPO Logistics, Inc."
+1,FOX,Fox Corporation
+1,BIO,"Bio-Rad Laboratories, Inc."
+1,ED,"Consolidated Edison, Inc."
+1,LYV,"Live Nation Entertainment, Inc."
+1,LINK,"Interlink Electronics, Inc."
+1,NAK,Northern Dynasty Minerals Ltd.
+1,OSTK,"Overstock.com, Inc."
+1,CNET,ZW Data Action Technologies Inc.
+1,MFA,"MFA Financial, Inc."
+1,QUBT,Quantum Computing Inc.
+1,HUGE,FSD Pharma Inc.
+1,VMSI,"Vita Mobile Systems, Inc."
+1,NCMI,"National CineMedia, Inc."
+1,GHSI,"Guardion Health Sciences, Inc."
+1,IGC,"India Globalization Capital, Inc."
+1,NMTC,NeuroOne Medical Technologies Corporation
+1,NVO,Novo Nordisk A/S
+1,PRCH,Porch Group Inc.
+1,GO,Grocery Outlet Holding Corp.
+1,CTEC,Global X Funds - Global X CleanTech ETF
+1,NYMT,"New York Mortgage Trust, Inc."
+1,AGTC,Applied Genetic Technologies Corporation
+1,NVCN,Neovasc Inc.
+1,CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF
+1,SWPPX,Schwab S&P 500 Index Fund
+1,MJNA,"Medical Marijuana, Inc."
+1,EQ,"Equillium, Inc."
+1,RDFN,Redfin Corporation
+1,GLUU,Glu Mobile Inc.
+1,ALV,"Autoliv, Inc."
+1,ANTE,AirNet Technology Inc.
+1,BTZI,"BOTS, Inc."
+1,PYPL,"PayPal Holdings, Inc."
+1,U,Unity Software Inc.
+1,feng,Phoenix New Media Limited
+1,SCI,Service Corporation International
+1,TV,"Grupo Televisa, S.A.B."
+1,LOW,"Lowe's Companies, Inc."
+1,XPEV,XPeng Inc.
+1,CLDR,"Cloudera, Inc."
+1,TBLT,"ToughBuilt Industries, Inc."
+1,SPXL,Direxion Daily S&P500 Bull 3X Shares
+1,REGI,"Renewable Energy Group, Inc."
+1,RLGT,"Radiant Logistics, Inc."
+1,PSLV,Sprott Physical Silver Trust
+1,FNKO,"Funko, Inc."
+1,TNXP,Tonix Pharmaceuticals Holding Corp.
+1,CD,Chindata Group Holdings Limited
+1,VIBI,Vilacto Bio Inc.
+1,ARKF,ARK Fintech Innovation ETF
+1,HITIF,High Tide Inc.
+1,VT,Vanguard Total World Stock Index Fund ETF Shares
+1,XM,Qualtrics International Inc.
+1,C,Citigroup Inc.
+1,RRGB,"Red Robin Gourmet Burgers, Inc."
+1,HAE,Haemonetics Corporation
+1,NVTA,Invitae Corporation
+1,EWJ,iShares MSCI Japan ETF
+1,ICLN,iShares Global Clean Energy ETF
+1,FDHY,Fidelity High Yield Factor ETF
+1,FUTU,Futu Holdings Limited
+1,CXDO,"Crexendo, Inc."
+1,PM,Philip Morris International Inc.
+1,UCTT,"Ultra Clean Holdings, Inc."
+1,MGNI,"Magnite, Inc."
+1,GWPH,GW Pharmaceuticals plc
+1,INND,"InnerScope Hearing Technologies, Inc."
+1,WMT,Walmart Inc.
+1,VFIAX,Vanguard 500 Index Fund Admiral Shares
+1,PDT,John Hancock Premium Dividend Fund
+1,ATOS,"Atossa Therapeutics, Inc."
+1,GPN,Global Payments Inc.
+1,DLB,"Dolby Laboratories, Inc."
+1,DASH,"DoorDash, Inc."
+1,FMCC,Freddie Mac
+1,GOOG,Alphabet Inc.
+1,BHF,"Brighthouse Financial, Inc."
+1,HIMS,"Hims & Hers Health, Inc."
+1,PBF,PBF Energy Inc.
+1,PFE,Pfizer Inc.
+1,PRTS,"CarParts.com, Inc."
+1,ELY,Callaway Golf Company
+1,SMH,VanEck Vectors Semiconductor ETF
+1,OPK,"OPKO Health, Inc."
+1,SNAP,Snap Inc.
+1,ATD-B.TO,Alimentation Couche-Tard Inc.
+1,ENTX,Entera Bio Ltd.
+1,CRLBF,Cresco Labs Inc.
+1,KRE,SPDR S&P Regional Banking ETF
+1,FOLD,"Amicus Therapeutics, Inc."
+1,Y,Alleghany Corporation
+1,NUMI.V,Numinus Wellness Inc.
+1,SDC,"SmileDirectClub, Inc."
+1,AMAT,"Applied Materials, Inc."
+1,APXT,Apex Technology Acquisition Corporation
+1,NCLH,Norwegian Cruise Line Holdings Ltd.
+1,PGR,The Progressive Corporation
+1,BDJ,BlackRock Enhanced Equity Dividend Trust
+1,WFC,Wells Fargo & Company
+1,WDC,Western Digital Corporation
+1,OLED,Universal Display Corporation
+1,ADMP,Adamis Pharmaceuticals Corporation
+1,VIAC,ViacomCBS Inc.
+1,UNG,"United States Natural Gas Fund, LP"
+1,DAC,Danaos Corporation
+1,PLAY,"Dave & Buster's Entertainment, Inc."
+1,XOM,Exxon Mobil Corporation
+1,PENN,"Penn National Gaming, Inc."
+1,OPRA,Opera Limited
+1,IT,"Gartner, Inc."
+1,RLTR,"Reeltime Rentals, Inc."
+1,TK,Teekay Corporation
+1,SOS,SOS Limited
+1,ZEST,"Ecoark Holdings, Inc."
+1,YINN,Direxion Daily FTSE China Bull 3X Shares
+1,BEST,BEST Inc.
+1,DEEP,Roundhill Acquirers Deep Value ETF
+1,OR,Osisko Gold Royalties Ltd
+1,DOYU,DouYu International Holdings Limited
+1,GOOGL,Alphabet Inc.
+1,PSTH,"Pershing Square Tontine Holdings, Ltd."
+1,RHHBY,Roche Holding AG
+1,KTOS,"Kratos Defense & Security Solutions, Inc."
+1,TRTC,Terra Tech Corp.
+1,FORM,"FormFactor, Inc."
+1,SC,Santander Consumer USA Holdings Inc.
+1,CM,Canadian Imperial Bank of Commerce
+1,TECL,Direxion Daily Technology Bull 3X Shares
+1,FDX,FedEx Corporation
+1,CME,CME Group Inc.
+1,PNG.V,Kraken Robotics Inc.
+1,MOS,The Mosaic Company
+1,GNLN,"Greenlane Holdings, Inc."
+1,WDLF,"Social Life Network, Inc."
+1,AT,Atlantic Power Corporation
+1,XLE,Energy Select Sector SPDR Fund
+1,WHEN,"World Health Energy Holdings, Inc."
+1,SU,Suncor Energy Inc.
+1,IQ,"iQIYI, Inc."
+1,ATOM,Atomera Incorporated
+1,XSPA,"XpresSpa Group, Inc."
+1,UBQU,Ubiquitech Software Corp.
+1,ALGN,"Align Technology, Inc."
+1,IG,Principal Investment Grade Corporate Active ETF
+1,NEW,Puxin Limited
+1,BIGC,"BigCommerce Holdings, Inc."
+1,SJM,The J. M. Smucker Company
+1,RNA,"Avidity Biosciences, Inc."
+1,XERS,"Xeris Pharmaceuticals, Inc."
+1,AAPL,Apple Inc.
+1,DGX,Quest Diagnostics Incorporated
+1,COST,Costco Wholesale Corporation
+1,SSRM,SSR Mining Inc.
+1,INKW,"Greene Concepts, Inc."
+1,mtnb,"Matinas BioPharma Holdings, Inc."
+1,RTON,"Right On Brands, Inc."
+1,OUT,Outfront Media Inc. (REIT)
+1,NMRK,"Newmark Group, Inc."
+1,BEPC,Brookfield Renewable Corporation
+1,FAS,Direxion Daily Financial Bull 3X Shares
+1,LGVW,Longview Acquisition Corp.
+1,ROXG.TO,Roxgold Inc.
+1,SHOP,Shopify Inc.
+1,GEVO,"Gevo, Inc."
+1,AMKBY,A.P. Møller - Mærsk A/S
+1,DHI,"D.R. Horton, Inc."
+1,ICPT,"Intercept Pharmaceuticals, Inc."
+1,MARA,"Marathon Patent Group, Inc."
+1,FIII,Forum Merger III Corporation
+1,CAPC,"Capstone Companies, Inc."
+1,TWOU,"2U, Inc."
+1,IRS,IRSA Inversiones y Representaciones Sociedad Anónima
+1,FCEL,"FuelCell Energy, Inc."
+1,BOTH,"Bioethics, Ltd."
+1,EFT,Eaton Vance Floating-Rate Income Trust
+1,MUST,Columbia Multi-Sector Municipal Income ETF
+1,AEZS,Aeterna Zentaris Inc.
+1,LMT,Lockheed Martin Corporation
+1,VRT,Vertiv Holdings Co.
+1,CLNE,Clean Energy Fuels Corp.
+1,BNGO,"Bionano Genomics, Inc."
+1,AYX,"Alteryx, Inc."
+1,DOMO,"Domo, Inc."
+1,AN,"AutoNation, Inc."
+1,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity ETF
+1,TRVG,trivago N.V.
+1,MT,ArcelorMittal
+1,PSX,Phillips 66
+1,RMO,"Romeo Power, Inc."
+1,KHC,The Kraft Heinz Company
+1,JETMF,Global Crossing Airlines Group Inc.
+1,MSOS,AdvisorShares Pure US Cannabis ETF
+1,CORP,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund
+1,RESN,Resonant Inc.
+1,RYCEY,Rolls-Royce Holdings plc
+1,BOB,Alpha Architect Merlyn.AI Best-of-Breed Core Momentum ETF
+1,HIMX,"Himax Technologies, Inc."
+1,SBE,Switchback Energy Acquisition Corporation
+1,UL,Unilever PLC
+1,TIXT,TELUS International (Cda) Inc.
+1,AQB,"AquaBounty Technologies, Inc."
+1,RSI,"Rush Street Interactive, Inc."
+1,GOEV,Canoo Inc.
+1,IR,Ingersoll Rand Inc.

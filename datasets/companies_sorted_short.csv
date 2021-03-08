@@ -1,0 +1,1406 @@
+,name,year founded,industry,current employee estimate,country,iso
+0,ibm,1911.0,information technology and services,274047,united states,USA
+1,tata consultancy services,1968.0,information technology and services,190771,india,IND
+2,accenture,1989.0,information technology and services,190689,ireland,IRL
+3,us army,1800.0,military,162163,united states,USA
+4,ey,1989.0,accounting,158363,united kingdom,GBR
+5,hewlett-packard,1939.0,information technology and services,127952,united states,USA
+6,cognizant technology solutions,1994.0,information technology and services,122031,united states,USA
+7,walmart,1962.0,retail,120753,united states,USA
+8,microsoft,1975.0,computer software,116196,united states,USA
+9,at&t,1876.0,telecommunications,115188,united states,USA
+10,united states air force,1947.0,defense & space,113997,united states,USA
+11,pwc,1998.0,accounting,111372,united states,USA
+13,infosys,1981.0,information technology and services,104752,india,IND
+14,deloitte,1900.0,management consulting,104112,united states,USA
+15,citi,1812.0,financial services,101482,united states,USA
+16,bank of america,1968.0,banking,97357,united states,USA
+17,jpmorgan chase & co.,1823.0,financial services,95234,united states,USA
+19,amazon,1994.0,internet,93247,united states,USA
+20,apple,1976.0,consumer electronics,90095,united states,USA
+21,siemens,1847.0,electrical/electronic manufacturing,87381,germany,DEU
+22,oracle,1977.0,information technology and services,85090,united states,USA
+23,nokia,1865.0,telecommunications,84327,finland,FIN
+25,capgemini,1967.0,information technology and services,84179,france,FRA
+26,wipro technologies,1945.0,information technology and services,78261,india,IND
+27,hsbc,1865.0,financial services,75640,united kingdom,GBR
+28,google,1998.0,internet,75109,united states,USA
+30,mcdonald's corporation,1955.0,restaurants,68233,united states,USA
+33,boeing,1916.0,aviation & aerospace,67261,united states,USA
+34,vodafone,1982.0,telecommunications,66632,united kingdom,GBR
+35,kaiser permanente,1945.0,hospital & health care,65839,united states,USA
+36,ford motor company,1903.0,automotive,65335,united states,USA
+37,intel corporation,1968.0,semiconductors,64046,united states,USA
+38,department of veterans affairs,1930.0,government administration,62685,united states,USA
+39,cisco,1984.0,computer networking,61803,united states,USA
+41,pepsico,1965.0,food & beverages,61040,united states,USA
+42,target,1962.0,retail,60602,united states,USA
+43,shell,1833.0,oil & energy,60324,netherlands,NLD
+44,hcl technologies,1991.0,information technology and services,59993,india,IND
+45,ups,1907.0,transportation/trucking/railroad,59712,united states,USA
+46,pfizer,1848.0,pharmaceuticals,59588,united states,USA
+47,unilever,1872.0,consumer goods,58819,united kingdom,GBR
+48,nestlé,1866.0,food & beverages,58538,switzerland,CHE
+49,unitedhealth group,1980.0,hospital & health care,57720,united states,USA
+50,huawei technologies,1987.0,telecommunications,57255,china,CHN
+51,dell,1984.0,information technology and services,55945,united states,USA
+52,gsk,1830.0,pharmaceuticals,54117,united kingdom,GBR
+53,honeywell,1985.0,electrical/electronic manufacturing,51721,united states,USA
+55,schlumberger,1926.0,oil & energy,50715,united states,USA
+56,lockheed martin,1912.0,defense & space,50303,united states,USA
+60,starbucks,1971.0,retail,46523,united states,USA
+62,morgan stanley,1935.0,financial services,44799,united states,USA
+63,the home depot,1977.0,retail,44630,united states,USA
+65,novartis,1996.0,pharmaceuticals,44054,switzerland,CHE
+66,johnson & johnson,1887.0,hospital & health care,43985,united states,USA
+67,bp,1909.0,oil & energy,43657,united kingdom,GBR
+68,schneider electric,1836.0,electrical/electronic manufacturing,43240,united states,USA
+69,state farm,1922.0,insurance,43096,united states,USA
+71,dhl,1969.0,logistics and supply chain,42501,germany,DEU
+73,td,1955.0,banking,42136,canada,CAN
+74,ge,1892.0,electrical/electronic manufacturing,42043,united states,USA
+75,philips,1891.0,hospital & health care,41732,united kingdom,GBR
+76,ubs,1862.0,financial services,41445,switzerland,CHE
+77,procter & gamble,1837.0,consumer goods,40562,united states,USA
+78,walgreens,1901.0,retail,40455,united states,USA
+79,"keller williams realty, inc.",1983.0,real estate,40325,united states,USA
+80,"lowe's companies, inc.",1946.0,retail,39741,united states,USA
+83,dell emc,1979.0,information technology and services,38703,united states,USA
+84,tech mahindra,1986.0,information technology and services,38631,india,IND
+85,verizon wireless,2000.0,telecommunications,38627,united states,USA
+87,bnp paribas,1848.0,banking,37835,france,FRA
+89,deutsche bank,1870.0,investment banking,37595,germany,DEU
+90,tencent,1998.0,internet,37574,china,CHN
+92,verizon,1983.0,information technology and services,37368,united states,USA
+94,kpmg,1987.0,accounting,36853,united states,USA
+95,orange,1988.0,telecommunications,36340,france,FRA
+96,linkedin,2003.0,internet,36309,united states,USA
+98,facebook,2004.0,internet,36149,united states,USA
+99,northrop grumman corporation,1939.0,defense & space,35965,united states,USA
+100,fca fiat chrysler automobiles,1925.0,automotive,35891,united kingdom,GBR
+101,adp,1949.0,human resources,35686,united states,USA
+102,medtronic,1949.0,medical devices,35664,united states,USA
+103,abbott,1980.0,hospital & health care,35603,united states,USA
+104,chevron,1879.0,oil & energy,34995,united states,USA
+105,roche,1896.0,biotechnology,34844,switzerland,CHE
+106,american express,1850.0,financial services,34816,united states,USA
+107,samsung electronics,1938.0,electrical/electronic manufacturing,34021,united states,USA
+108,macy's,1858.0,retail,33795,united states,USA
+109,thomson reuters,2008.0,information technology and services,33745,united states,USA
+111,avon,1886.0,cosmetics,33670,united states,USA
+112,cgi,1976.0,information technology and services,33615,canada,CAN
+113,cvs health,1963.0,pharmaceuticals,33408,united states,USA
+114,halliburton,1919.0,oil & energy,33250,united states,USA
+115,atos,1997.0,information technology and services,32927,france,FRA
+117,ge healthcare,1892.0,hospital & health care,32636,united kingdom,GBR
+118,csc,1959.0,information technology and services,32601,united states,USA
+119,merck,1891.0,pharmaceuticals,32210,united states,USA
+121,banco santander,1857.0,banking,32008,spain,ESP
+122,scotiabank,1832.0,banking,31726,canada,CAN
+123,dxc technology,2017.0,information technology and services,31671,united states,USA
+124,johnson controls,1885.0,mechanical or industrial engineering,31630,united states,USA
+126,allstate,1931.0,insurance,31490,united states,USA
+127,petrobras,1953.0,oil & energy,31454,brazil,BRA
+128,credit suisse,1856.0,banking,31429,switzerland,CHE
+129,telefónica,1924.0,telecommunications,31175,spain,ESP
+130,marriott international,1927.0,hospitality,31146,united states,USA
+132,3m health care,1902.0,mechanical or industrial engineering,30937,united states,USA
+134,xerox,1906.0,information technology and services,30765,united states,USA
+137,goldman sachs,1869.0,investment banking,30470,united states,USA
+138,fidelity investments,1946.0,financial services,30346,united states,USA
+139,icici bank,1994.0,banking,30286,india,IND
+140,exxonmobil,1999.0,oil & energy,30131,united states,USA
+141,t-mobile,2002.0,telecommunications,30100,united states,USA
+142,aon,1987.0,financial services,30079,united kingdom,GBR
+144,astrazeneca,1999.0,pharmaceuticals,29930,united kingdom,GBR
+145,nike,1972.0,sporting goods,29731,united states,USA
+146,basf,1865.0,chemicals,29673,germany,DEU
+148,best buy,1966.0,retail,29568,united states,USA
+149,american airlines,1930.0,airlines/aviation,29498,united states,USA
+151,the coca-cola company,1892.0,food & beverages,29278,united states,USA
+152,genpact,1997.0,information technology and services,29262,united states,USA
+154,rbc,1864.0,banking,28889,canada,CAN
+157,continental,1871.0,automotive,28156,germany,DEU
+158,pnc,2014.0,financial services,28132,united states,USA
+159,sprint,1899.0,telecommunications,28008,united states,USA
+160,saudi aramco,1933.0,oil & energy,27631,saudi arabia,SAU
+161,g4s,1901.0,security and investigations,27599,united kingdom,GBR
+162,airbus,2014.0,aviation & aerospace,27548,united states,USA
+163,capital one,1994.0,financial services,27522,united states,USA
+164,delta air lines,1928.0,airlines/aviation,27331,united states,USA
+167,merrill lynch,1914.0,financial services,27206,united states,USA
+168,mondelēz international,1903.0,food production,27152,united states,USA
+169,bt,1981.0,telecommunications,26894,united kingdom,GBR
+170,h&m,1947.0,retail,26331,sweden,SWE
+171,anz,1835.0,banking,26156,australia,AUS
+172,farmers insurance,1928.0,insurance,26029,united states,USA
+173,aecom,1990.0,civil engineering,26008,united states,USA
+174,united states department of defense,1947.0,military,26000,united states,USA
+175,metlife,1868.0,insurance,25967,united states,USA
+176,total,1924.0,oil & energy,25780,united states,USA
+178,cargill,1865.0,food production,25321,united states,USA
+179,bae systems,1999.0,defense & space,25166,united kingdom,GBR
+180,united airlines,1926.0,airlines/aviation,24967,united states,USA
+182,mary kay inc.,1963.0,cosmetics,24699,united states,USA
+183,liberty mutual insurance,1912.0,insurance,24623,united states,USA
+184,comcast,1963.0,media production,24515,united states,USA
+185,caterpillar inc.,1925.0,machinery,24304,united states,USA
+186,jacobs,1947.0,construction,24241,united states,USA
+188,raytheon,1922.0,defense & space,23733,united states,USA
+189,société générale,1864.0,banking,23484,france,FRA
+190,eli lilly and company,1876.0,pharmaceuticals,23297,united states,USA
+194,uber,2009.0,internet,22415,united states,USA
+196,kroger,1883.0,retail,22257,united states,USA
+197,thermo fisher scientific,1956.0,research,22025,united states,USA
+200,willis towers watson,1828.0,financial services,21813,united kingdom,GBR
+202,aig,1919.0,insurance,21673,united states,USA
+203,state bank of india,1806.0,banking,21645,india,IND
+205,novo nordisk,1923.0,pharmaceuticals,21638,united states,USA
+206,mynet,1999.0,internet,21612,turkey,TUR
+207,vale,1942.0,mining & metals,21569,brazil,BRA
+208,itaú unibanco,1945.0,banking,21539,brazil,BRA
+209,h&r block,1955.0,retail,21410,united states,USA
+210,sncf,1938.0,transportation/trucking/railroad,21359,france,FRA
+211,social security administration,1935.0,government administration,21150,united states,USA
+213,costco wholesale,1983.0,retail,21030,united states,USA
+214,thales,2015.0,defense & space,20983,united states,USA
+215,convergys,1998.0,outsourcing/offshoring,20979,united states,USA
+217,tesco plc,1919.0,retail,20960,united kingdom,GBR
+218,iqvia,2016.0,hospital & health care,20957,united states,USA
+219,salesforce,1999.0,internet,20885,united states,USA
+220,edf,1946.0,oil & energy,20848,france,FRA
+222,the dow chemical company,1897.0,chemicals,20706,united states,USA
+224,hilton worldwide,1919.0,hospitality,20578,united states,USA
+225,los angeles unified school district,1853.0,education management,20404,united states,USA
+227,nordstrom,1901.0,retail,20376,united states,USA
+228,lifespan,1994.0,hospital & health care,20341,united states,USA
+229,fedex,1973.0,package/freight delivery,20317,united states,USA
+230,edward jones,1922.0,financial services,20238,united states,USA
+232,travelers,1853.0,insurance,20065,united states,USA
+234,boehringer ingelheim,1885.0,pharmaceuticals,19989,germany,DEU
+237,the walt disney company,1923.0,entertainment,19839,united states,USA
+239,emirates,1985.0,airlines/aviation,19657,united arab emirates,ARE
+241,bombardier,1967.0,aviation & aerospace,19515,canada,CAN
+242,herbalife,1980.0,"health, wellness and fitness",19473,united states,USA
+243,northwestern mutual,1857.0,financial services,19406,united states,USA
+244,valeo,1923.0,automotive,19383,france,FRA
+245,eaton,1911.0,electrical/electronic manufacturing,19358,united states,USA
+246,aflac,1955.0,insurance,19357,united states,USA
+247,united nations,1945.0,international affairs,19263,united states,USA
+249,standard bank group,1862.0,financial services,18967,south africa,ZAF
+252,booz allen hamilton,1914.0,management consulting,18838,united states,USA
+253,allianz,1890.0,financial services,18824,germany,DEU
+254,telstra,1901.0,telecommunications,18773,australia,AUS
+255,qualcomm,1985.0,wireless,18614,united states,USA
+256,john deere,1837.0,machinery,18546,united states,USA
+257,aetna,1853.0,insurance,18519,united states,USA
+258,enterprise rent-a-car,1957.0,automotive,18509,united states,USA
+259,bristol-myers squibb,1887.0,pharmaceuticals,18504,united states,USA
+260,alberta health services,2008.0,hospital & health care,18502,canada,CAN
+261,us department of homeland security,2003.0,government administration,18497,united states,USA
+262,commonwealth bank,1911.0,financial services,18480,australia,AUS
+263,new york life insurance company,1845.0,financial services,18438,united states,USA
+265,cibc,1867.0,banking,18410,canada,CAN
+266,adidas,1949.0,sporting goods,18402,germany,DEU
+267,weatherford,1987.0,oil & energy,18246,united states,USA
+268,fluor corporation,1912.0,construction,18228,united states,USA
+269,pemex,1938.0,oil & energy,18137,mexico,MEX
+270,sopra steria,1968.0,information technology and services,18093,france,FRA
+271,hca,1968.0,hospital & health care,18069,united states,USA
+272,bmw group,1916.0,automotive,18063,germany,DEU
+273,dupont,1802.0,chemicals,17997,united states,USA
+275,sears holdings corporation,2005.0,retail,17952,united states,USA
+276,cleveland clinic,1921.0,hospital & health care,17891,united states,USA
+277,lafargeholcim,2015.0,building materials,17859,switzerland,CHE
+278,kohl's department stores,1962.0,retail,17851,united states,USA
+279,humana,1961.0,insurance,17829,united states,USA
+280,primerica,1977.0,financial services,17751,united states,USA
+281,axis bank,1994.0,banking,17736,india,IND
+282,coldwell banker residential brokerage,1906.0,real estate,17682,united states,USA
+283,bayer,1863.0,pharmaceuticals,17592,germany,DEU
+284,fujitsu,1935.0,information technology and services,17581,australia,AUS
+285,faa,1958.0,aviation & aerospace,17533,united states,USA
+286,bbva,1857.0,banking,17515,spain,ESP
+287,university of michigan,1817.0,higher education,17439,united states,USA
+291,intercontinental hotels group (ihg®),2003.0,hospitality,17201,united kingdom,GBR
+293,epam systems,1993.0,computer software,17180,united states,USA
+294,pearson,1844.0,education management,17153,united kingdom,GBR
+295,national australia bank,1858.0,banking,17116,australia,AUS
+296,reliance,1966.0,oil & energy,17020,india,IND
+297,jcpenney,1902.0,retail,16930,united states,USA
+298,imss,2002.0,hospital & health care,16922,mexico,MEX
+299,bradesco,1943.0,banking,16917,brazil,BRA
+300,boston scientific,1979.0,medical devices,16903,united states,USA
+302,lenovo,2005.0,computer hardware,16797,united states,USA
+304,nissan motor corporation,1933.0,automotive,16756,japan,JPN
+305,amazon web services,2006.0,information technology and services,16751,united states,USA
+306,philip morris international,2008.0,tobacco,16683,united states,USA
+307,alstom,1928.0,railroad manufacture,16661,united states,USA
+308,cummins inc.,1919.0,automotive,16625,united states,USA
+309,centurylink,1930.0,telecommunications,16598,united states,USA
+310,psa peugeot citroën,1976.0,automotive,16563,france,FRA
+311,european commission,1958.0,government administration,16546,belgium,BEL
+312,amgen,1980.0,biotechnology,16533,united states,USA
+313,abn amro bank n.v.,1817.0,banking,16510,netherlands,NLD
+314,cvs pharmacy,1963.0,pharmaceuticals,16445,united states,USA
+316,ncr corporation,1884.0,information technology and services,16404,united states,USA
+317,akzonobel,1994.0,chemicals,16375,netherlands,NLD
+318,amdocs,1982.0,telecommunications,16108,united states,USA
+319,abbvie,2013.0,pharmaceuticals,16096,united states,USA
+320,arcelormittal,2006.0,mining & metals,16090,united states,USA
+322,jaguar land rover,1922.0,automotive,15929,united kingdom,GBR
+324,sgs,1878.0,international trade and development,15907,switzerland,CHE
+325,wipro infotech,1945.0,information technology and services,15834,india,IND
+326,aramark,1939.0,retail,15833,united states,USA
+328,samsung,1969.0,consumer electronics,15818,united states,USA
+329,kuehne + nagel,1890.0,logistics and supply chain,15815,switzerland,CHE
+330,cerner corporation,1979.0,information technology and services,15781,united states,USA
+332,kimberly-clark,1872.0,consumer goods,15758,united states,USA
+333,caixa economica federal,1861.0,banking,15754,brazil,BRA
+335,agilent technologies,1999.0,biotechnology,15704,united states,USA
+336,upwork,2015.0,internet,15693,united states,USA
+337,whole foods market,1980.0,supermarkets,15674,united states,USA
+338,comcast cable,1963.0,telecommunications,15667,united states,USA
+339,indra,1993.0,information technology and services,15623,spain,ESP
+340,southwest airlines,1971.0,airlines/aviation,15614,united states,USA
+342,stryker,1941.0,medical devices,15560,united states,USA
+343,international mission of mercy (imm),1991.0,public relations and communications,15560,united states,USA
+344,british american tobacco,1902.0,tobacco,15511,united kingdom,GBR
+347,publix super markets,1930.0,retail,15397,united states,USA
+349,youtube,2005.0,internet,15319,united states,USA
+352,mars,1911.0,food production,15197,united states,USA
+354,sabic,1976.0,chemicals,15190,saudi arabia,SAU
+356,danone,1919.0,food production,15123,france,FRA
+357,usaa,1922.0,financial services,15109,united states,USA
+358,chicago public schools,1837.0,education management,15079,united states,USA
+360,bmo financial group,1817.0,financial services,14998,canada,CAN
+361,fresenius medical care,1996.0,hospital & health care,14994,united states,USA
+362,cushman & wakefield,1917.0,commercial real estate,14982,united states,USA
+363,ing,1991.0,banking,14973,netherlands,NLD
+364,rolls-royce,1884.0,aviation & aerospace,14942,united kingdom,GBR
+365,cigna,1982.0,"health, wellness and fitness",14932,united states,USA
+366,ymca,1844.0,non-profit organization management,14924,united states,USA
+367,prudential financial,1875.0,financial services,14889,united states,USA
+368,saipem,1957.0,oil & energy,14858,italy,ITA
+369,bosch,1886.0,mechanical or industrial engineering,14807,united states,USA
+370,rodan + fields,2002.0,consumer goods,14799,united states,USA
+371,rr donnelley,1864.0,printing,14761,united states,USA
+372,vmware,1998.0,computer software,14733,united states,USA
+374,penn state university,1855.0,higher education,14681,united states,USA
+375,texas instruments,1930.0,semiconductors,14643,united states,USA
+376,michelin,1889.0,automotive,14606,france,FRA
+377,baxter international inc.,1931.0,medical devices,14603,united states,USA
+380,cardinal health,1971.0,hospital & health care,14534,united states,USA
+381,amway,1959.0,consumer goods,14503,united states,USA
+382,adecco,1996.0,staffing and recruiting,14481,switzerland,CHE
+383,bb&t,1872.0,financial services,14394,united states,USA
+384,saic,2013.0,information technology and services,14389,united states,USA
+385,bureau veritas,1828.0,environmental services,14375,united states,USA
+386,faurecia,1997.0,automotive,14371,france,FRA
+387,sas,1976.0,computer software,14362,united states,USA
+389,mahindra satyam,1986.0,information technology and services,14357,india,IND
+390,coldwell banker,1906.0,real estate,14342,united states,USA
+392,monsanto company,2000.0,farming,14319,united states,USA
+393,manpowergroup,1948.0,staffing and recruiting,14319,united states,USA
+394,american red cross,1881.0,non-profit organization management,14294,united states,USA
+395,kelly services,1946.0,staffing and recruiting,14262,united states,USA
+396,time warner cable,1989.0,telecommunications,14223,united states,USA
+398,adobe,1982.0,computer software,14176,united states,USA
+399,university of florida,1853.0,higher education,14171,united states,USA
+400,bell,1880.0,telecommunications,14108,canada,CAN
+402,bhp billiton,1851.0,mining & metals,14101,australia,AUS
+403,university of minnesota,1851.0,higher education,14092,united states,USA
+404,absa,1991.0,financial services,14080,south africa,ZAF
+405,bbc,1922.0,broadcast media,14038,united kingdom,GBR
+407,"ameriprise financial services, inc.",1894.0,financial services,13954,united states,USA
+408,unicredit,2014.0,banking,13933,italy,ITA
+409,mphasis,1998.0,information technology and services,13912,india,IND
+410,randstad,1960.0,human resources,13840,netherlands,NLD
+411,progressive insurance,1937.0,insurance,13840,united states,USA
+412,the ohio state university,1870.0,higher education,13817,united states,USA
+414,safeway,1915.0,food & beverages,13700,united states,USA
+415,teleperformance,1978.0,outsourcing/offshoring,13696,france,FRA
+416,worleyparsons,1971.0,oil & energy,13657,australia,AUS
+418,british airways,1919.0,airlines/aviation,13648,united kingdom,GBR
+419,national oilwell varco,1841.0,oil & energy,13484,united states,USA
+420,aviva,2000.0,financial services,13476,united kingdom,GBR
+421,syngenta,2000.0,farming,13440,switzerland,CHE
+422,magna international,1957.0,automotive,13422,canada,CAN
+423,walt disney world,1971.0,entertainment,13420,united states,USA
+424,auchan,1961.0,retail,13415,france,FRA
+425,staples,1986.0,business supplies and equipment,13400,united states,USA
+427,the salvation army,1865.0,non-profit organization management,13374,united states,USA
+428,inditex,1974.0,retail,13366,spain,ESP
+430,toyota,1937.0,automotive,13320,japan,JPN
+431,sherwin williams,1866.0,chemicals,13284,united states,USA
+432,arcadis,1888.0,civil engineering,13253,netherlands,NLD
+433,motorola,1928.0,consumer electronics,13241,united states,USA
+434,chubb,1882.0,insurance,13233,switzerland,CHE
+437,airtel,1995.0,telecommunications,13142,india,IND
+439,sony,1946.0,entertainment,13109,japan,JPN
+440,genentech,1976.0,biotechnology,13103,united states,USA
+441,delphi,2009.0,automotive,13031,united kingdom,GBR
+442,serco,1988.0,outsourcing/offshoring,13014,united kingdom,GBR
+443,bd,1897.0,medical devices,12994,united states,USA
+444,leroy merlin,1998.0,retail,12949,france,FRA
+445,sct ltd co.,1998.0,electrical/electronic manufacturing,12947,china,CHN
+446,air liquide,1902.0,utilities,12922,france,FRA
+447,te connectivity,2007.0,electrical/electronic manufacturing,12892,switzerland,CHE
+448,wood,1912.0,oil & energy,12891,united kingdom,GBR
+450,duke energy corporation,1904.0,utilities,12818,united states,USA
+451,university of toronto,1827.0,higher education,12787,canada,CAN
+452,teksystems,1983.0,information technology and services,12751,united states,USA
+453,insidesecure,1995.0,computer software,12720,france,FRA
+456,century 21®,1971.0,real estate,12678,united states,USA
+457,adecco group,1996.0,staffing and recruiting,12671,switzerland,CHE
+458,colgate palmolive,1806.0,consumer goods,12647,united states,USA
+461,tesla,2003.0,automotive,12641,united states,USA
+462,sena,1957.0,education management,12629,colombia,COL
+464,air france,1933.0,airlines/aviation,12578,france,FRA
+465,u.s. coast guard,1915.0,military,12574,united states,USA
+467,bayer healthcare,1863.0,pharmaceuticals,12558,germany,DEU
+468,stmicroelectronics,1987.0,semiconductors,12554,switzerland,CHE
+469,charter communications,1993.0,telecommunications,12535,united states,USA
+470,re/max,1973.0,real estate,12526,united states,USA
+471,jabil,1966.0,electrical/electronic manufacturing,12518,united states,USA
+473,skanska,1887.0,construction,12469,sweden,SWE
+474,leonardo,1948.0,defense & space,12458,italy,ITA
+475,accorhotels,1967.0,hospitality,12427,france,FRA
+476,brf,1934.0,food & beverages,12403,brazil,BRA
+477,l&t infotech,1997.0,information technology and services,12385,india,IND
+478,sonatrach,1963.0,oil & energy,12376,algeria,DZA
+479,pizza hut,1958.0,restaurants,12338,united states,USA
+482,departament d'ensenyament - generalitat de catalunya,1931.0,education management,12319,spain,ESP
+485,the boston consulting group (bcg),1963.0,management consulting,12290,united states,USA
+486,l-3 communications,1997.0,management consulting,12268,united states,USA
+487,davita,1999.0,hospital & health care,12264,united states,USA
+488,intesa sanpaolo,2007.0,banking,12248,italy,ITA
+490,lear corporation,1917.0,automotive,12219,united states,USA
+491,rockwell automation,1903.0,industrial automation,12217,united states,USA
+492,rb,1823.0,consumer goods,12216,united kingdom,GBR
+496,accenture in india,1989.0,information technology and services,12121,india,IND
+497,texas a&m university,1876.0,higher education,12106,united states,USA
+498,bloomberg lp,1981.0,financial services,12093,united states,USA
+499,arizona state university,1885.0,higher education,12088,united states,USA
+500,heineken,1864.0,food & beverages,12079,netherlands,NLD
+502,statoil,1972.0,oil & energy,12066,norway,NOR
+503,ppg industries,1883.0,chemicals,12061,united states,USA
+504,sainsbury's,1869.0,retail,12057,united kingdom,GBR
+505,fiserv,1984.0,information technology and services,12045,united states,USA
+507,rogers communications,1960.0,telecommunications,12026,canada,CAN
+508,conocophillips,2012.0,oil & energy,12017,united states,USA
+509,diageo,1997.0,wine and spirits,12017,united kingdom,GBR
+511,qatar airways,1997.0,airlines/aviation,11988,qatar,QAT
+513,suntrust bank,1891.0,financial services,11960,united states,USA
+514,rockwell collins,1933.0,aviation & aerospace,11957,united states,USA
+515,office depot,1986.0,business supplies and equipment,11948,united states,USA
+516,sephora,1969.0,retail,11934,france,FRA
+517,telenor,1855.0,telecommunications,11933,norway,NOR
+519,ceva logistics,2006.0,logistics and supply chain,11917,united states,USA
+520,"nbcuniversal media, llc",1926.0,entertainment,11891,united states,USA
+522,university of phoenix,1976.0,higher education,11801,united states,USA
+524,standard chartered bank,1853.0,banking,11757,united kingdom,GBR
+526,sutherland global services,1986.0,outsourcing/offshoring,11691,united states,USA
+529,telecom italia,1994.0,telecommunications,11628,italy,ITA
+531,ucla,1919.0,higher education,11624,united states,USA
+533,geico,1936.0,insurance,11586,united states,USA
+535,ch2m hill,1946.0,civil engineering,11571,united states,USA
+536,kellogg company,1906.0,consumer goods,11534,united states,USA
+537,t-systems,2000.0,information technology and services,11532,germany,DEU
+538,purdue university,1869.0,higher education,11530,united states,USA
+539,anheuser-busch inbev,2008.0,consumer goods,11527,belgium,BEL
+542,providence health & services,1859.0,hospital & health care,11468,united states,USA
+543,university of illinois at urbana-champaign,1867.0,higher education,11401,united states,USA
+545,whirlpool corporation,1911.0,consumer goods,11390,united states,USA
+546,university of southern california,1880.0,research,11390,united states,USA
+549,desjardins,1900.0,banking,11370,canada,CAN
+550,telus,2001.0,telecommunications,11363,canada,CAN
+551,hays,1867.0,staffing and recruiting,11340,united kingdom,GBR
+552,rite aid,1968.0,retail,11323,united states,USA
+553,state of california,1850.0,government administration,11294,united states,USA
+554,vanguard,1975.0,financial services,11284,united states,USA
+556,leidos,1969.0,information technology and services,11250,united states,USA
+557,sky,1989.0,broadcast media,11250,united kingdom,GBR
+558,blackrock,1988.0,financial services,11238,united states,USA
+559,henkel,1876.0,consumer goods,11222,germany,DEU
+560,tnt,1946.0,package/freight delivery,11221,netherlands,NLD
+562,mckesson,1833.0,hospital & health care,11207,united states,USA
+563,network rail,2001.0,transportation/trucking/railroad,11185,united kingdom,GBR
+564,compass group,1941.0,food & beverages,11140,united kingdom,GBR
+565,atlas copco,1873.0,machinery,11118,sweden,SWE
+566,rio tinto,1873.0,mining & metals,11107,united kingdom,GBR
+567,robert bosch,1906.0,mechanical or industrial engineering,11100,united states,USA
+568,marks and spencer,1884.0,retail,11093,united kingdom,GBR
+570,united states army reserve,1908.0,military,11043,united states,USA
+571,regions bank,1971.0,banking,11039,united states,USA
+572,the university of texas at austin,1883.0,higher education,11035,united states,USA
+573,zurich insurance company ltd,1872.0,insurance,11024,switzerland,CHE
+574,ppd,1985.0,pharmaceuticals,11019,united states,USA
+576,poste italiane,1862.0,package/freight delivery,11009,italy,ITA
+577,grant thornton llp,1924.0,accounting,11009,united states,USA
+578,the hartford,1810.0,financial services,10994,united states,USA
+579,nasa,1958.0,aviation & aerospace,10955,united states,USA
+580,new york university,1831.0,higher education,10931,united states,USA
+581,kotak mahindra bank,1985.0,banking,10920,india,IND
+583,paypal,1998.0,internet,10904,united states,USA
+584,the goodyear tire & rubber company,1898.0,automotive,10893,united states,USA
+585,fifth third bank,1858.0,financial services,10879,united states,USA
+586,intertek,1885.0,international trade and development,10853,united kingdom,GBR
+588,symantec,1982.0,computer software,10830,united states,USA
+589,unicef,1946.0,non-profit organization management,10829,united states,USA
+590,uc berkeley,1868.0,higher education,10808,united states,USA
+591,nsw department of education and communities,1848.0,education management,10807,australia,AUS
+592,"starwood hotels & resorts worldwide, inc.",1980.0,hospitality,10785,united states,USA
+593,quest diagnostics,1967.0,hospital & health care,10784,united states,USA
+600,westpac,1817.0,banking,10682,united states,USA
+602,northern trust corporation,1889.0,financial services,10672,united states,USA
+603,sasol,1950.0,chemicals,10639,south africa,ZAF
+604,electrolux,1919.0,consumer goods,10631,sweden,SWE
+609,general mills,1928.0,consumer goods,10578,united states,USA
+610,aim,1962.0,retail,10577,united states,USA
+612,burger king corporation,1954.0,restaurants,10547,united states,USA
+614,coca-cola femsa,1993.0,food & beverages,10527,mexico,MEX
+616,banner health,1999.0,hospital & health care,10478,united states,USA
+617,upmc,1986.0,hospital & health care,10468,united states,USA
+618,american family insurance,1927.0,insurance,10465,united states,USA
+619,hsbc global banking and markets,1865.0,financial services,10452,united kingdom,GBR
+622,aerotek,1983.0,staffing and recruiting,10421,united states,USA
+623,m&t bank,1856.0,financial services,10393,united states,USA
+624,visa,1958.0,information technology and services,10392,united states,USA
+625,dimension data,1983.0,information technology and services,10385,south africa,ZAF
+626,national grid,1990.0,utilities,10356,united kingdom,GBR
+627,fnb south africa,1838.0,banking,10341,south africa,ZAF
+628,mapfre,1935.0,insurance,10334,spain,ESP
+631,etisalat,1976.0,telecommunications,10304,united arab emirates,ARE
+632,reliance communications,2002.0,telecommunications,10303,india,IND
+633,atkins,1938.0,design,10285,united kingdom,GBR
+634,pt bank mandiri (persero) tbk.,1998.0,banking,10268,indonesia,IDN
+637,cintas,1968.0,facilities services,10221,united states,USA
+638,aker solutions,1841.0,oil & energy,10211,norway,NOR
+639,zte,1985.0,telecommunications,10200,china,CHN
+640,centers for disease control and prevention,1946.0,government administration,10192,united states,USA
+641,veolia,1853.0,environmental services,10161,france,FRA
+642,applied materials,1967.0,semiconductors,10118,united states,USA
+643,ebay,1995.0,internet,10115,united states,USA
+644,first data corporation,1971.0,financial services,10109,united states,USA
+645,charles schwab,1973.0,financial services,10079,united states,USA
+646,tata steel,1907.0,mining & metals,10045,india,IND
+647,parker hannifin,1918.0,mechanical or industrial engineering,10041,united states,USA
+648,advocare,1993.0,"health, wellness and fitness",10031,united states,USA
+649,the world bank,1944.0,international trade and development,10027,united states,USA
+651,royal mail,1840.0,logistics and supply chain,10013,united kingdom,GBR
+652,petronas,1974.0,oil & energy,10013,malaysia,MYS
+654,procter & gamble,1837.0,consumer goods,10005,united states,USA
+655,us forest service,1905.0,government administration,9989,united states,USA
+657,wns global services,1996.0,outsourcing/offshoring,9977,india,IND
+658,victoria's secret,1977.0,retail,9975,united states,USA
+659,mastercard,1966.0,information technology and services,9974,united states,USA
+660,volvo car group,1927.0,automotive,9966,sweden,SWE
+661,stantec,1954.0,design,9960,canada,CAN
+662,everis,1996.0,management consulting,9950,spain,ESP
+664,waste management,1894.0,environmental services,9927,united states,USA
+666,massachusetts general hospital,1811.0,hospital & health care,9910,united states,USA
+669,world vision,1950.0,non-profit organization management,9868,united states,USA
+670,syntel,1980.0,information technology and services,9868,united states,USA
+671,northwell health,1997.0,hospital & health care,9866,united states,USA
+672,hyatt hotels corporation,1957.0,hospitality,9863,united states,USA
+673,"alcon, a novartis company",1945.0,pharmaceuticals,9861,united states,USA
+675,allergan,1948.0,pharmaceuticals,9852,ireland,IRL
+676,bechtel corporation,1898.0,construction,9846,united states,USA
+678,kpn,1989.0,telecommunications,9838,netherlands,NLD
+680,prosegur,1976.0,security and investigations,9794,spain,ESP
+683,ingram micro,1979.0,information technology and services,9705,united states,USA
+684,nxp semiconductors,2006.0,semiconductors,9686,united states,USA
+686,emerson,1890.0,mechanical or industrial engineering,9663,united states,USA
+688,dollar general,1939.0,retail,9633,united states,USA
+690,dhl supply chain,1969.0,logistics and supply chain,9617,germany,DEU
+691,arup,1946.0,design,9617,united kingdom,GBR
+693,macquarie group,1969.0,financial services,9598,australia,AUS
+696,panera bread,1981.0,restaurants,9563,united states,USA
+697,idea cellular ltd,1995.0,telecommunications,9546,india,IND
+698,massachusetts institute of technology (mit),1861.0,higher education,9539,united states,USA
+699,danske bank,1871.0,financial services,9533,denmark,DNK
+702,kpmg uk,1987.0,accounting,9496,united kingdom,GBR
+703,miami-dade county public schools,1885.0,education management,9456,united states,USA
+704,citizens bank,1828.0,banking,9435,united states,USA
+706,health service executive,2005.0,hospital & health care,9409,ireland,IRL
+707,decathlon france,1976.0,sporting goods,9395,france,FRA
+709,university of maryland,1856.0,higher education,9384,united states,USA
+710,natura,1969.0,cosmetics,9382,brazil,BRA
+711,"expedia, inc.",1996.0,internet,9371,united states,USA
+712,hcl infosystems ltd,1976.0,information technology and services,9357,india,IND
+713,"kbr, inc.",1919.0,construction,9338,united states,USA
+714,arbonne international llc,1975.0,consumer goods,9329,united states,USA
+715,undp,1974.0,international affairs,9326,united states,USA
+717,sitel,1985.0,outsourcing/offshoring,9321,united states,USA
+719,infor,2003.0,computer software,9308,united states,USA
+721,"university of california, san diego",1960.0,higher education,9291,united states,USA
+722,ucsf,1873.0,research,9289,united states,USA
+723,domino's pizza,1960.0,restaurants,9265,united states,USA
+725,state farm agent,1922.0,insurance,9255,united states,USA
+726,engie,2008.0,oil & energy,9254,france,FRA
+727,asml,1984.0,semiconductors,9249,netherlands,NLD
+728,gartner,1979.0,information technology and services,9249,united states,USA
+729,parexel,1982.0,pharmaceuticals,9231,united states,USA
+730,the university of british columbia,1915.0,higher education,9224,canada,CAN
+732,micron technology,1978.0,semiconductors,9192,united states,USA
+733,university college london,1826.0,research,9191,united kingdom,GBR
+734,ca technologies,1976.0,computer software,9187,united states,USA
+735,the estée lauder companies inc.,1946.0,cosmetics,9187,united states,USA
+737,dbs bank,1968.0,banking,9164,singapore,SGP
+738,seagate technology,1979.0,computer hardware,9150,united states,USA
+739,ricoh americas corporation,1962.0,information technology and services,9121,united states,USA
+742,md anderson cancer center,1944.0,hospital & health care,9064,united states,USA
+743,mtn,1994.0,telecommunications,9063,south africa,ZAF
+744,snc-lavalin,1911.0,construction,9057,canada,CAN
+746,sanmina,1980.0,electrical/electronic manufacturing,9026,united states,USA
+747,department for work and pensions (dwp),1948.0,government administration,9020,united kingdom,GBR
+749,uc davis,1908.0,higher education,9005,united states,USA
+750,mahindra & mahindra,1945.0,automotive,8998,india,IND
+751,kone,1910.0,mechanical or industrial engineering,8996,finland,FIN
+752,atento,1999.0,telecommunications,8980,united states,USA
+753,rsm us llp,1926.0,accounting,8966,united states,USA
+754,state of michigan,1837.0,government administration,8963,united states,USA
+755,cemex,1906.0,building materials,8962,mexico,MEX
+756,verizon business,1988.0,information technology and services,8942,united states,USA
+757,pratt & whitney,1925.0,aviation & aerospace,8924,united states,USA
+758,shire,1986.0,biotechnology,8909,ireland,IRL
+760,us air force reserve,1948.0,military,8903,united states,USA
+761,intermountain healthcare,1975.0,hospital & health care,8900,united states,USA
+762,the kraft heinz company,2015.0,food & beverages,8898,united states,USA
+764,enel,1962.0,utilities,8892,italy,ITA
+765,correios,1969.0,government administration,8880,brazil,BRA
+766,cb&i,1889.0,oil & energy,8878,united states,USA
+767,usda,1862.0,government administration,8873,united states,USA
+768,"securitas security services usa, inc.",1850.0,security and investigations,8851,sweden,SWE
+769,suncor energy,1967.0,oil & energy,8820,canada,CAN
+771,luxottica,1961.0,apparel & fashion,8804,italy,ITA
+772,c&a,1841.0,apparel & fashion,8800,germany,DEU
+773,national institutes of health,1887.0,research,8782,united states,USA
+774,kindred healthcare,1985.0,hospital & health care,8775,united states,USA
+775,home instead senior care,1994.0,individual & family services,8759,united states,USA
+776,tyson foods,1935.0,food production,8747,united states,USA
+777,clark county school district,1956.0,education management,8744,united states,USA
+778,lendlease,1958.0,construction,8719,australia,AUS
+779,cnrs,1939.0,research,8717,france,FRA
+780,tieto,1968.0,information technology and services,8694,finland,FIN
+781,british council,1934.0,non-profit organization management,8693,united kingdom,GBR
+782,sage,1981.0,computer software,8682,united kingdom,GBR
+783,petrofac,1981.0,oil & energy,8675,united kingdom,GBR
+785,meb,1998.0,real estate,8648,united states,USA
+786,concentrix,1983.0,outsourcing/offshoring,8642,united states,USA
+787,capgemini consulting,1990.0,management consulting,8638,france,FRA
+788,paychex,1971.0,human resources,8631,united states,USA
+790,union pacific railroad,1862.0,transportation/trucking/railroad,8619,united states,USA
+791,gap inc.,1969.0,retail,8610,united states,USA
+792,volkswagen ag,1937.0,automotive,8603,germany,DEU
+793,sysco,1970.0,food & beverages,8585,united states,USA
+794,grainger,1927.0,business supplies and equipment,8556,united states,USA
+796,colliers international,1976.0,commercial real estate,8528,united states,USA
+797,flipkart,2007.0,internet,8528,india,IND
+798,indiana university bloomington,1820.0,higher education,8505,united states,USA
+799,government of canada,1867.0,government administration,8500,canada,CAN
+801,carolinas healthcare system,1943.0,hospital & health care,8497,united states,USA
+802,hsbc retail banking and wealth management,1865.0,financial services,8476,united kingdom,GBR
+803,motorola solutions,1928.0,information technology and services,8474,united states,USA
+804,petsmart,1987.0,retail,8461,united states,USA
+805,memorial sloan kettering cancer center,1884.0,hospital & health care,8449,united states,USA
+806,zimmer biomet,1927.0,medical devices,8433,united states,USA
+807,transport for london,2000.0,transportation/trucking/railroad,8419,united kingdom,GBR
+808,netapp,1992.0,information technology and services,8412,united states,USA
+809,aphp,1849.0,hospital & health care,8411,france,FRA
+811,university of illinois at chicago,1965.0,higher education,8407,united states,USA
+812,avaya,2000.0,telecommunications,8405,united states,USA
+813,air canada,1937.0,airlines/aviation,8404,canada,CAN
+814,repsol,1986.0,oil & energy,8381,spain,ESP
+815,uwv,2002.0,government administration,8352,netherlands,NLD
+818,odebrecht,1944.0,construction,8343,brazil,BRA
+820,sandoz,1886.0,pharmaceuticals,8315,germany,DEU
+821,c.h. robinson,1905.0,logistics and supply chain,8301,united states,USA
+823,sou autonomo,2010.0,graphic design,8295,brazil,BRA
+824,aia,1919.0,insurance,8286,hong kong,HKG
+825,chanel,1883.0,luxury goods & jewelry,8268,france,FRA
+826,comunidad de madrid,1983.0,government administration,8267,spain,ESP
+828,jti (japan tobacco international),1999.0,tobacco,8262,switzerland,CHE
+833,cipla,1935.0,pharmaceuticals,8248,india,IND
+834,old mutual,1845.0,financial services,8247,united kingdom,GBR
+835,houston isd,1879.0,education management,8239,united states,USA
+836,"the tjx companies, inc.",1956.0,retail,8237,united states,USA
+837,booking.com,1996.0,internet,8217,netherlands,NLD
+839,northwestern university,1851.0,higher education,8214,united states,USA
+840,harris corporation,1895.0,defense & space,8213,united states,USA
+841,utc aerospace systems,2012.0,aviation & aerospace,8209,united states,USA
+842,express scripts,1986.0,hospital & health care,8194,united states,USA
+844,infineon technologies,1999.0,semiconductors,8178,united states,USA
+845,mott macdonald,1902.0,civil engineering,8177,united kingdom,GBR
+846,caci international inc,1962.0,information technology and services,8174,united states,USA
+847,hertz,1918.0,"leisure, travel & tourism",8172,united states,USA
+848,saudi telecom company,1998.0,telecommunications,8168,saudi arabia,SAU
+850,adt,1874.0,security and investigations,8150,united states,USA
+851,amadeus it group,1987.0,information technology and services,8143,spain,ESP
+853,"the ritz-carlton hotel company, l.l.c.",1983.0,hospitality,8134,united states,USA
+854,vestas,1898.0,renewables & environment,8130,denmark,DNK
+855,robert half,1948.0,staffing and recruiting,8118,united states,USA
+856,indusind bank,1994.0,banking,8115,india,IND
+857,nyu langone medical center,1841.0,hospital & health care,8110,united states,USA
+859,mercy,1986.0,hospital & health care,8102,united states,USA
+860,sogeti,1967.0,information technology and services,8100,france,FRA
+861,carlson wagonlit travel,1994.0,"leisure, travel & tourism",8099,france,FRA
+862,the university of arizona,1890.0,higher education,8096,united states,USA
+863,university of south florida,1956.0,higher education,8087,united states,USA
+864,colorado state university,1870.0,higher education,8072,united states,USA
+866,cox communications,1984.0,broadcast media,8064,united states,USA
+867,young living essential oils,1993.0,"health, wellness and fitness",8060,united states,USA
+868,"royal caribbean cruises, ltd.",1968.0,"leisure, travel & tourism",8059,united states,USA
+869,wipro bpo,2000.0,outsourcing/offshoring,8054,india,IND
+870,north carolina state university,1887.0,higher education,8052,united states,USA
+871,diebold nixdorf,1859.0,financial services,8048,united states,USA
+872,national bank of canada,1859.0,banking,8045,canada,CAN
+874,bayer cropscience,1863.0,chemicals,8034,germany,DEU
+875,university of cincinnati,1819.0,higher education,8034,united states,USA
+877,fda,1906.0,government administration,8032,united states,USA
+879,ust global,1999.0,information technology and services,8010,united states,USA
+881,geodis,1904.0,logistics and supply chain,8009,france,FRA
+884,ntt data services,1965.0,information technology and services,7998,united states,USA
+886,georgia-pacific llc,1927.0,paper & forest products,7971,united states,USA
+887,igate,1978.0,information technology and services,7954,united states,USA
+888,"stanley black & decker, inc.",1843.0,consumer goods,7949,united states,USA
+889,red bull,1987.0,food & beverages,7942,austria,AUT
+890,spectrum health,1997.0,hospital & health care,7929,united states,USA
+891,etihad airways,2003.0,airlines/aviation,7918,united arab emirates,ARE
+892,arthur j. gallagher & co.,1927.0,insurance,7898,united states,USA
+893,university of alberta,1908.0,higher education,7893,canada,CAN
+894,embraer,1969.0,aviation & aerospace,7890,brazil,BRA
+896,raymond james,1962.0,financial services,7871,united states,USA
+897,florida hospital,1908.0,hospital & health care,7866,united states,USA
+898,amec foster wheeler,2012.0,oil & energy,7859,united kingdom,GBR
+900,pra health sciences,1976.0,research,7854,united states,USA
+901,it works global,2001.0,"health, wellness and fitness",7854,united states,USA
+902,meijer,1934.0,retail,7845,united states,USA
+908,casa,2009.0,information services,7820,south africa,ZAF
+911,turkish airlines,1933.0,airlines/aviation,7795,turkey,TUR
+912,ups supply chain solutions,1907.0,logistics and supply chain,7793,united states,USA
+913,aricent,2006.0,outsourcing/offshoring,7769,united states,USA
+915,heb,1905.0,retail,7767,united states,USA
+916,parsons corporation,1944.0,civil engineering,7762,united states,USA
+917,securitas,1934.0,security and investigations,7756,netherlands,NLD
+918,keybank,1849.0,banking,7753,united states,USA
+919,experian,1980.0,information services,7751,united states,USA
+923,dyncorp international,1951.0,defense & space,7733,united states,USA
+924,massmutual financial group,1851.0,financial services,7732,united states,USA
+926,otis elevator company,1853.0,consumer services,7728,united kingdom,GBR
+927,cameron,1833.0,oil & energy,7727,united states,USA
+929,oriflame,1967.0,cosmetics,7718,luxembourg,LUX
+931,kbc bank & verzekering,1998.0,financial services,7707,belgium,BEL
+932,ralph lauren,1968.0,apparel & fashion,7699,united states,USA
+935,ibest,2001.0,internet,7680,italy,ITA
+937,maxim healthcare services,1988.0,hospital & health care,7662,united states,USA
+938,nerium international,2011.0,cosmetics,7648,united states,USA
+939,vodacom,1994.0,telecommunications,7622,south africa,ZAF
+940,covidien,1954.0,medical devices,7618,ireland,IRL
+941,red hat,1993.0,computer software,7609,united states,USA
+942,nomura,1925.0,financial services,7593,japan,JPN
+943,anglo american,1917.0,mining & metals,7578,united kingdom,GBR
+944,georgia institute of technology,1888.0,higher education,7572,united states,USA
+945,thyssenkrupp,1811.0,mechanical or industrial engineering,7572,germany,DEU
+947,electronic arts (ea),1982.0,entertainment,7561,united states,USA
+948,earthlink,1994.0,information technology and services,7552,united states,USA
+951,johns hopkins university,1876.0,higher education,7529,united states,USA
+952,"ross stores, inc.",1957.0,retail,7522,united states,USA
+953,inss,1988.0,government administration,7522,brazil,BRA
+955,nhs england,2012.0,hospital & health care,7515,united kingdom,GBR
+956,tecnológico de monterrey,1943.0,higher education,7513,mexico,MEX
+958,department of education,1980.0,government administration,7476,united states,USA
+959,dsv - global transport and logistics,1976.0,logistics and supply chain,7465,denmark,DNK
+960,pitney bowes,1920.0,information technology and services,7464,united states,USA
+961,china mobile,1997.0,telecommunications,7464,united states,USA
+963,imperial college london,1907.0,research,7456,united kingdom,GBR
+964,virtusa,1996.0,computer software,7450,united states,USA
+965,uk ministry of defence,1964.0,defense & space,7440,united kingdom,GBR
+966,swiss re,1863.0,insurance,7440,switzerland,CHE
+967,coty,1904.0,cosmetics,7430,united states,USA
+968,teradata,1979.0,information technology and services,7414,united states,USA
+969,the university of manchester,1824.0,research,7412,united kingdom,GBR
+971,nvidia,1993.0,computer hardware,7402,united states,USA
+972,baidu inc.,2000.0,internet,7402,china,CHN
+974,ferguson enterprises,1953.0,wholesale,7394,united states,USA
+975,espn,1979.0,broadcast media,7381,united states,USA
+976,technipfmc,2017.0,oil & energy,7380,united kingdom,GBR
+977,jbs,1953.0,food production,7378,brazil,BRA
+978,boots uk,1849.0,retail,7375,united kingdom,GBR
+979,school district of philadelphia,1818.0,education management,7371,united states,USA
+980,ongc,1956.0,oil & energy,7369,india,IND
+981,tata communications,2008.0,telecommunications,7364,india,IND
+982,corning incorporated,1851.0,"glass, ceramics & concrete",7358,united states,USA
+983,intuit,1983.0,computer software,7358,united states,USA
+984,cencosud s.a.,1976.0,retail,7351,chile,CHL
+985,alcoa,1888.0,mining & metals,7348,united states,USA
+986,gap inc./old navy,1994.0,retail,7339,united states,USA
+987,internal revenue service,1862.0,government administration,7338,united states,USA
+989,dick's sporting goods,1948.0,retail,7328,united states,USA
+990,ohsu | oregon health & science university,1887.0,hospital & health care,7313,united states,USA
+992,capita,1984.0,outsourcing/offshoring,7300,united kingdom,GBR
+993,ulta beauty,1990.0,retail,7281,united states,USA
+994,broadcom,1991.0,semiconductors,7281,united states,USA
+995,charlotte mecklenburg schools,1882.0,primary/secondary education,7273,united states,USA
+998,virginia tech,1872.0,higher education,7260,united states,USA
+999,sanofi pasteur,1990.0,pharmaceuticals,7258,france,FRA
+1000,ramboll,1945.0,civil engineering,7252,denmark,DNK
+1001,washington university in st. louis,1853.0,higher education,7247,united states,USA
+1002,amd,1969.0,semiconductors,7243,united states,USA
+1004,covance,1997.0,pharmaceuticals,7219,united states,USA
+1006,american eagle outfitters,1977.0,retail,7198,united states,USA
+1008,banamex,1884.0,banking,7182,mexico,MEX
+1011,government of alberta,1905.0,government administration,7163,canada,CAN
+1012,maersk line,1928.0,maritime,7160,denmark,DNK
+1013,huntington national bank,1866.0,banking,7151,united states,USA
+1014,bmo harris bank,1882.0,banking,7134,united states,USA
+1015,fedex services,2000.0,transportation/trucking/railroad,7128,united states,USA
+1016,internal revenue service,2010.0,market research,7119,united states,USA
+1017,coca-cola hellenic bottling company,2000.0,food & beverages,7116,switzerland,CHE
+1019,us environmental protection agency (epa),1970.0,government administration,7107,united states,USA
+1021,gfk,1934.0,market research,7104,germany,DEU
+1022,bain & company,1973.0,management consulting,7102,united states,USA
+1025,baylor scott & white health,1903.0,hospital & health care,7089,united states,USA
+1026,alibaba.com,1999.0,internet,7088,china,CHN
+1029,e.on,2000.0,utilities,7079,germany,DEU
+1030,yahoo,1994.0,internet,7072,united states,USA
+1032,dla piper,2005.0,legal services,7053,united kingdom,GBR
+1033,kmart corporation,1962.0,retail,7044,united states,USA
+1035,autodesk,1982.0,computer software,7020,united states,USA
+1036,vanderbilt university,1873.0,higher education,7010,united states,USA
+1037,yes bank,2004.0,banking,7010,india,IND
+1038,mcgill university,1821.0,higher education,7007,canada,CAN
+1039,fonterra,2001.0,dairy,7005,new zealand,NZL
+1040,m. h. alshaya co.,1890.0,retail,7000,kuwait,KWT
+1041,republic services,1998.0,environmental services,6998,united states,USA
+1042,manpower,1948.0,staffing and recruiting,6994,united states,USA
+1045,kpit,1990.0,information technology and services,6978,india,IND
+1046,dassault systèmes,1981.0,computer software,6976,france,FRA
+1048,seb,1856.0,banking,6935,sweden,SWE
+1049,el corte inglés,1935.0,retail,6935,spain,ESP
+1050,applebee's,1980.0,restaurants,6935,united states,USA
+1052,the university of alabama at birmingham,1969.0,higher education,6922,united states,USA
+1054,gsa,1949.0,government administration,6917,united states,USA
+1056,world financial group (wfg),2001.0,financial services,6903,united states,USA
+1058,jsmnet,1998.0,information technology and services,6894,brazil,BRA
+1059,quicken loans,1985.0,financial services,6894,united states,USA
+1060,bed bath & beyond,1971.0,retail,6891,united states,USA
+1061,avanade,2000.0,information technology and services,6886,united states,USA
+1063,7-eleven,1927.0,retail,6878,united states,USA
+1066,dr. reddy's laboratories,1984.0,pharmaceuticals,6864,india,IND
+1067,instituto mexicano del seguro social,1943.0,hospital & health care,6863,mexico,MEX
+1068,advocate health care,1995.0,hospital & health care,6862,united states,USA
+1069,"santander bank, n.a.",1857.0,banking,6854,united states,USA
+1070,expeditors,1979.0,logistics and supply chain,6853,united states,USA
+1073,directv,1990.0,telecommunications,6839,united states,USA
+1074,level 3 communications,1998.0,telecommunications,6837,united states,USA
+1075,dnv gl,1864.0,public safety,6832,norway,NOR
+1076,acn,1993.0,telecommunications,6827,united states,USA
+1077,telkom,1991.0,telecommunications,6825,south africa,ZAF
+1078,alstom power,1928.0,oil & energy,6822,switzerland,CHE
+1079,iss facility services a/s,1901.0,facilities services,6814,australia,AUS
+1080,boston university,1869.0,higher education,6812,united states,USA
+1086,turk telekom,1840.0,telecommunications,6776,turkey,TUR
+1087,wegmans food markets,1916.0,retail,6775,united states,USA
+1088,weichert realtors,1969.0,real estate,6773,united states,USA
+1091,synopsys,1986.0,computer software,6758,united states,USA
+1093,emory university,1836.0,higher education,6747,united states,USA
+1094,"ryder system, inc.",1933.0,transportation/trucking/railroad,6744,united states,USA
+1095,ipsos,1975.0,market research,6736,france,FRA
+1097,pernod ricard,1975.0,wine and spirits,6714,france,FRA
+1098,woolworths,1945.0,retail,6710,south africa,ZAF
+1100,avery dennison,1935.0,packaging and containers,6692,united states,USA
+1101,national park service,1916.0,government administration,6688,united states,USA
+1102,lexisnexis,1973.0,information technology and services,6685,united states,USA
+1103,cea - commissariat à l'énergie atomique et aux énergies alternatives,1945.0,research,6683,france,FRA
+1104,mylan,1961.0,pharmaceuticals,6683,united states,USA
+1105,unhcr,1950.0,international affairs,6679,switzerland,CHE
+1106,zodiac aerospace,1896.0,aviation & aerospace,6678,france,FRA
+1107,brookdale,1978.0,hospital & health care,6674,united states,USA
+1110,gilead sciences,1987.0,biotechnology,6659,united states,USA
+1111,advantage sales & marketing,1987.0,consumer goods,6655,united states,USA
+1112,juniper networks,1996.0,computer networking,6654,united states,USA
+1113,casa,1984.0,non-profit organization management,6654,united states,USA
+1114,buffalo wild wings,1982.0,restaurants,6647,united states,USA
+1115,banco de crédito bcp,1889.0,banking,6647,peru,PER
+1116,bank of the west,1874.0,banking,6640,united states,USA
+1117,globalfoundries,2009.0,semiconductors,6639,united states,USA
+1118,sanofi genzyme,1981.0,biotechnology,6638,united states,USA
+1119,baker & mckenzie,1949.0,law practice,6637,united states,USA
+1120,cma cgm,1978.0,maritime,6634,france,FRA
+1121,belastingdienst,1806.0,government administration,6631,netherlands,NLD
+1122,usaid,1961.0,international affairs,6616,united states,USA
+1126,southern company,1912.0,utilities,6599,united states,USA
+1127,air products,1940.0,chemicals,6599,united states,USA
+1128,lyft,2012.0,consumer services,6594,united states,USA
+1131,university of missouri,1839.0,higher education,6576,united states,USA
+1133,southern wine & spirits,1968.0,wine and spirits,6573,united states,USA
+1134,archer daniels midland company,1902.0,food production,6564,united states,USA
+1135,university of miami,1925.0,higher education,6563,united states,USA
+1136,carnival cruise lines,1972.0,"leisure, travel & tourism",6558,united states,USA
+1137,flsmidth,1882.0,mechanical or industrial engineering,6556,denmark,DNK
+1138,icici prudential life insurance company limited,2000.0,insurance,6555,india,IND
+1139,bridgestone,1931.0,automotive,6552,united states,USA
+1140,genesis healthcare,1985.0,hospital & health care,6541,united states,USA
+1141,arrow electronics,1935.0,information technology and services,6541,united states,USA
+1142,gamestop,1996.0,retail,6539,united states,USA
+1146,general dynamics,1952.0,defense & space,6528,united states,USA
+1148,fastenal,1967.0,wholesale,6523,united states,USA
+1149,unam,1958.0,professional training & coaching,6523,united states,USA
+1150,discover financial services,1985.0,financial services,6521,united states,USA
+1151,erdf,2008.0,utilities,6518,france,FRA
+1152,texas health resources,1997.0,hospital & health care,6516,united states,USA
+1153,lufthansa,1954.0,airlines/aviation,6505,germany,DEU
+1154,publica,2010.0,internet,6502,france,FRA
+1156,jefferson county public schools,1829.0,education management,6496,united states,USA
+1157,autoliv,1953.0,automotive,6496,sweden,SWE
+1158,sykes,1977.0,outsourcing/offshoring,6495,united states,USA
+1161,fema,1979.0,government administration,6482,united states,USA
+1162,"blue cross and blue shield of illinois, montana, new mexico, oklahoma & texas",1936.0,insurance,6474,united states,USA
+1163,king's college london,1829.0,research,6474,united kingdom,GBR
+1164,university hospitals of cleveland,1866.0,hospital & health care,6473,united states,USA
+1165,jetblue airways,1999.0,airlines/aviation,6463,united states,USA
+1170,ferrero,1946.0,consumer goods,6429,united states,USA
+1171,totvs,1983.0,computer software,6428,brazil,BRA
+1172,flowserve corporation,1997.0,mechanical or industrial engineering,6423,united states,USA
+1173,turner construction company,1902.0,construction,6422,united states,USA
+1177,wm morrison supermarkets plc,1899.0,retail,6403,united kingdom,GBR
+1178,massage envy,2002.0,"health, wellness and fitness",6397,united states,USA
+1179,forever 21,1984.0,apparel & fashion,6392,united states,USA
+1181,hm revenue & customs,2005.0,government administration,6387,united kingdom,GBR
+1182,mazars,1940.0,accounting,6387,france,FRA
+1183,hallmark cards,1910.0,consumer goods,6386,united states,USA
+1185,advance auto parts,1932.0,retail,6371,united states,USA
+1187,infosys bpo,2002.0,information technology and services,6357,india,IND
+1188,the university of queensland,1909.0,higher education,6357,australia,AUS
+1190,landmark group,1973.0,retail,6346,united arab emirates,ARE
+1191,luxoft,2000.0,information technology and services,6343,switzerland,CHE
+1192,university of calgary,1966.0,higher education,6336,canada,CAN
+1193,toys r us,1948.0,retail,6336,united states,USA
+1194,the children's hospital of philadelphia,1855.0,hospital & health care,6335,united states,USA
+1196,skf group,1907.0,mechanical or industrial engineering,6324,sweden,SWE
+1197,western union,1851.0,financial services,6323,united states,USA
+1198,deutsche telekom,1995.0,telecommunications,6316,germany,DEU
+1199,pt. bank negara indonesia (persero) tbk.,1946.0,banking,6316,indonesia,IDN
+1201,caesars entertainment corporation,1937.0,gambling & casinos,6302,united states,USA
+1203,la fitness,1984.0,"health, wellness and fitness",6300,united states,USA
+1204,shangri-la hotels and resorts,1971.0,hospitality,6292,hong kong,HKG
+1205,iowa state university,1858.0,higher education,6287,united states,USA
+1206,medical university of south carolina,1824.0,hospital & health care,6285,united states,USA
+1207,boston children's hospital,1869.0,hospital & health care,6283,united states,USA
+1209,frontier communications,1935.0,telecommunications,6273,united states,USA
+1210,crédit agricole cib,2004.0,banking,6266,france,FRA
+1212,autozone,1979.0,retail,6256,united states,USA
+1213,transamerica,1904.0,financial services,6251,united states,USA
+1215,exl,1999.0,outsourcing/offshoring,6236,united states,USA
+1216,world health organization,1948.0,international affairs,6227,switzerland,CHE
+1217,fannie mae,1938.0,financial services,6222,united states,USA
+1218,kiewit,1884.0,construction,6216,united states,USA
+1220,groupon,2008.0,internet,6211,united states,USA
+1223,plexus worldwide,2006.0,"health, wellness and fitness",6203,united states,USA
+1226,hdr,1917.0,design,6195,united states,USA
+1228,rede globo,1965.0,broadcast media,6192,brazil,BRA
+1229,ubisoft,1986.0,computer games,6192,france,FRA
+1231,citrix,1989.0,computer software,6182,united states,USA
+1232,persistent systems,1990.0,computer software,6181,india,IND
+1233,university of virginia,1819.0,higher education,6170,united states,USA
+1234,tsa,2001.0,government administration,6166,united states,USA
+1236,thirty-one gifts,2003.0,retail,6163,united states,USA
+1237,hexaware technologies,1990.0,information technology and services,6159,india,IND
+1241,schaeffler,1946.0,mechanical or industrial engineering,6151,germany,DEU
+1242,analog devices,1965.0,semiconductors,6150,united states,USA
+1247,cable one,1983.0,telecommunications,6141,united states,USA
+1248,estudio juridico,1983.0,law practice,6138,argentina,ARG
+1249,mahle,1920.0,automotive,6136,germany,DEU
+1250,harman international,1980.0,consumer electronics,6134,united states,USA
+1253,gerdau,1901.0,mining & metals,6129,brazil,BRA
+1254,western digital,1970.0,computer hardware,6129,united states,USA
+1255,canadian tire,1922.0,retail,6127,canada,CAN
+1256,ratp,1949.0,transportation/trucking/railroad,6106,france,FRA
+1257,family dollar,1959.0,retail,6093,united states,USA
+1259,ypf s.a.,1922.0,oil & energy,6082,argentina,ARG
+1260,"lexmark international, inc.",1991.0,information technology and services,6080,united states,USA
+1262,stefanini,1987.0,information technology and services,6077,united states,USA
+1263,nationwide building society,1846.0,financial services,6071,united kingdom,GBR
+1264,teach for america,1990.0,education management,6069,united states,USA
+1265,entergy,1913.0,utilities,6066,united states,USA
+1266,black & veatch,1915.0,construction,6060,united states,USA
+1267,transnet,1850.0,transportation/trucking/railroad,6057,south africa,ZAF
+1268,henry ford health system,1915.0,hospital & health care,6050,united states,USA
+1270,biogen,1978.0,biotechnology,6044,united states,USA
+1272,mine,2003.0,human resources,6038,sweden,SWE
+1274,southern california edison (sce),1886.0,utilities,6012,united states,USA
+1276,wake county public school system,1976.0,education management,6009,united states,USA
+1280,bank of china,1912.0,banking,6005,china,CHN
+1281,epic,1979.0,computer software,6005,united states,USA
+1283,rmit university,1887.0,higher education,6000,australia,AUS
+1284,cdw,1984.0,information technology and services,5997,united states,USA
+1287,cyient,1991.0,information technology and services,5983,india,IND
+1290,dish network,1980.0,telecommunications,5974,united states,USA
+1293,ef education first,1965.0,education management,5964,switzerland,CHE
+1295,sheraton,1937.0,hospitality,5955,united states,USA
+1296,allianz insurance,1905.0,insurance,5947,united kingdom,GBR
+1299,the linde group,1879.0,chemicals,5937,germany,DEU
+1300,pontificia universidad católica de chile,1888.0,higher education,5937,chile,CHL
+1304,cracker barrel,1969.0,restaurants,5929,united states,USA
+1307,millicom,1990.0,telecommunications,5923,united kingdom,GBR
+1309,gemalto,2006.0,information technology and services,5921,netherlands,NLD
+1310,l&t technology services limited,2009.0,mechanical or industrial engineering,5920,india,IND
+1311,mcmaster university,1887.0,higher education,5918,canada,CAN
+1312,beachbody,1998.0,"health, wellness and fitness",5918,united states,USA
+1315,swedbank,1820.0,financial services,5910,sweden,SWE
+1316,dillards,1938.0,retail,5910,united states,USA
+1317,24 hour fitness,1983.0,"health, wellness and fitness",5906,united states,USA
+1318,oregon state university,1868.0,higher education,5899,united states,USA
+1320,principal financial group,1879.0,financial services,5892,united states,USA
+1321,ahold,1887.0,retail,5887,united states,USA
+1323,bupa,1947.0,hospital & health care,5876,united kingdom,GBR
+1324,panasonic,1918.0,consumer electronics,5871,united states,USA
+1325,rbc capital markets,1869.0,investment banking,5870,canada,CAN
+1326,ucb,1928.0,pharmaceuticals,5868,belgium,BEL
+1327,opentext,1991.0,computer software,5866,canada,CAN
+1328,iron mountain,1951.0,information technology and services,5861,united states,USA
+1330,state of minnesota,1858.0,government administration,5833,united states,USA
+1331,peace corps,1961.0,international affairs,5832,united states,USA
+1332,hilti,1941.0,construction,5831,liechtenstein,LIE
+1333,first american title,1889.0,real estate,5827,united states,USA
+1334,frieslandcampina,1871.0,dairy,5826,netherlands,NLD
+1336,allscripts,1986.0,computer software,5818,united states,USA
+1337,coldwell banker real estate,1906.0,real estate,5817,united states,USA
+1338,netsuite,1998.0,computer software,5814,united states,USA
+1340,australia post,1809.0,consumer services,5813,australia,AUS
+1341,american cancer society,1913.0,non-profit organization management,5809,united states,USA
+1342,al-futtaim,1930.0,retail,5808,united arab emirates,ARE
+1343,globallogic,2000.0,computer software,5807,united states,USA
+1344,hydro québec,1944.0,renewables & environment,5807,canada,CAN
+1345,gulfstream aerospace,1958.0,aviation & aerospace,5806,united states,USA
+1346,hamad medical corporation,1979.0,medical practice,5802,qatar,QAT
+1347,union bank,1864.0,banking,5801,united states,USA
+1348,barrick gold corporation,1983.0,mining & metals,5794,canada,CAN
+1349,a.t. kearney,1926.0,management consulting,5793,united states,USA
+1351,mindtree,1999.0,information technology and services,5779,india,IND
+1352,qatar petroleum,1974.0,oil & energy,5772,qatar,QAT
+1353,university of houston,1927.0,higher education,5759,united states,USA
+1354,hsbc commercial banking,1865.0,financial services,5755,united kingdom,GBR
+1355,tu delft,1842.0,research,5755,netherlands,NLD
+1356,caixabank,1844.0,banking,5732,spain,ESP
+1357,mcdermott international inc.,1923.0,oil & energy,5727,united states,USA
+1358,bon secours health system,1983.0,hospital & health care,5719,united states,USA
+1360,workday,2005.0,computer software,5708,united states,USA
+1364,franklin templeton investments,1947.0,financial services,5701,united states,USA
+1365,swisscom,1998.0,telecommunications,5687,switzerland,CHE
+1367,optus,1992.0,telecommunications,5669,australia,AUS
+1368,hdfc life,2000.0,insurance,5665,india,IND
+1369,bharat heavy electricals limited,1956.0,electrical/electronic manufacturing,5665,india,IND
+1370,on semiconductor,1999.0,semiconductors,5664,united states,USA
+1372,elsevier,1880.0,information services,5662,netherlands,NLD
+1374,xcel energy,2000.0,utilities,5659,united states,USA
+1375,nu skin enterprises,1984.0,consumer goods,5657,united states,USA
+1378,nav,2006.0,government administration,5639,norway,NOR
+1379,university of nottingham,1948.0,research,5635,united kingdom,GBR
+1380,centene corporation,1984.0,hospital & health care,5633,united states,USA
+1382,tim brasil,1998.0,telecommunications,5625,brazil,BRA
+1383,comerica bank,1849.0,banking,5617,united states,USA
+1385,bennett coleman and co. ltd. (times group),1838.0,newspapers,5611,india,IND
+1386,areva,2001.0,oil & energy,5611,france,FRA
+1387,erasmus mc,2002.0,hospital & health care,5609,netherlands,NLD
+1390,west virginia university,1867.0,higher education,5594,united states,USA
+1392,regus,1989.0,facilities services,5593,luxembourg,LUX
+1393,bath & body works,1990.0,retail,5591,united states,USA
+1396,bayada home health care,1975.0,hospital & health care,5579,united states,USA
+1398,msc mediterranean shipping company,1970.0,maritime,5576,switzerland,CHE
+1399,bcd travel,2006.0,"leisure, travel & tourism",5570,netherlands,NLD
+1400,toyota north america,1957.0,automotive,5569,united states,USA
+1401,michael page,1976.0,staffing and recruiting,5568,united kingdom,GBR
+1402,lincoln financial group,1905.0,financial services,5567,united states,USA
+1403,george washington university,1821.0,higher education,5565,united states,USA
+1404,zurich north america,1912.0,insurance,5565,united states,USA
+1405,albertsons,1939.0,retail,5564,united states,USA
+1408,wärtsilä,1834.0,mechanical or industrial engineering,5557,finland,FIN
+1410,odesk,2005.0,internet,5553,united states,USA
+1411,outback steakhouse,1988.0,restaurants,5553,united states,USA
+1412,carnegie mellon university,1900.0,higher education,5550,united states,USA
+1413,universidad nacional de colombia,1867.0,higher education,5544,colombia,COL
+1414,computacenter,1981.0,information technology and services,5543,united kingdom,GBR
+1416,viacom,1971.0,entertainment,5535,united states,USA
+1418,world food programme,1961.0,non-profit organization management,5526,italy,ITA
+1420,gpa,1948.0,retail,5521,brazil,BRA
+1421,university of leeds,1904.0,higher education,5520,united kingdom,GBR
+1422,amc,1983.0,hospital & health care,5518,netherlands,NLD
+1424,edf energy,2003.0,utilities,5516,united kingdom,GBR
+1427,dunkin donuts,1950.0,food & beverages,5502,united states,USA
+1428,uc irvine,1965.0,higher education,5500,united states,USA
+1429,university of rochester,1850.0,higher education,5498,united states,USA
+1430,"bdo usa, llp",1910.0,accounting,5496,united states,USA
+1431,dupont pioneer,1926.0,farming,5495,united states,USA
+1432,walmart ecommerce,2000.0,internet,5495,united states,USA
+1433,the ohio state university wexner medical center,1834.0,hospital & health care,5493,united states,USA
+1435,pirelli,1872.0,automotive,5491,italy,ITA
+1436,amtrak,1971.0,transportation/trucking/railroad,5490,united states,USA
+1437,florida international university,1967.0,higher education,5490,united states,USA
+1438,televisa,1930.0,broadcast media,5489,mexico,MEX
+1439,aiesec,1948.0,non-profit organization management,5484,netherlands,NLD
+1440,zensar technologies,2001.0,information technology and services,5481,india,IND
+1442,johns hopkins hospital,1889.0,hospital & health care,5476,united states,USA
+1443,sun pharma,1983.0,pharmaceuticals,5470,india,IND
+1444,bank of baroda,1908.0,banking,5467,india,IND
+1447,smith & nephew,1856.0,medical devices,5465,united kingdom,GBR
+1448,primark stores limited,1969.0,retail,5463,ireland,IRL
+1449,ghent university,1817.0,higher education,5462,belgium,BEL
+1450,ptc,1985.0,computer software,5460,united states,USA
+1451,st. jude medical,1976.0,medical devices,5458,united states,USA
+1452,tennessee valley authority,1933.0,utilities,5456,united states,USA
+1455,kohler co.,1873.0,consumer goods,5446,united states,USA
+1456,ucla health,1955.0,hospital & health care,5443,united states,USA
+1457,metso,1999.0,machinery,5443,finland,FIN
+1458,virgin media,2007.0,telecommunications,5442,united kingdom,GBR
+1459,turkcell,1994.0,telecommunications,5441,turkey,TUR
+1460,life time - the healthy way of life company,1992.0,"health, wellness and fitness",5441,united states,USA
+1461,icon plc,1990.0,pharmaceuticals,5440,ireland,IRL
+1462,levi strauss & co.,1853.0,apparel & fashion,5433,united states,USA
+1464,magneti marelli,1919.0,automotive,5426,italy,ITA
+1465,audi ag,1909.0,automotive,5425,germany,DEU
+1466,sag-aftra,2012.0,entertainment,5425,united states,USA
+1468,dfx producciones,2007.0,design,5418,argentina,ARG
+1469,trader joe's,1967.0,retail,5416,united states,USA
+1470,express employment professionals,1983.0,staffing and recruiting,5410,united states,USA
+1471,university at buffalo,1846.0,higher education,5395,united states,USA
+1473,american heart association | american stroke association,1924.0,"health, wellness and fitness",5371,united states,USA
+1474,thomas cook,1841.0,"leisure, travel & tourism",5366,united kingdom,GBR
+1478,la banque postale,2006.0,banking,5362,france,FRA
+1479,ncc,1988.0,construction,5362,sweden,SWE
+1481,king saud university,1957.0,higher education,5354,saudi arabia,SAU
+1482,cn,1918.0,transportation/trucking/railroad,5352,canada,CAN
+1483,celgene,1986.0,biotechnology,5348,united states,USA
+1484,holcim,1912.0,building materials,5346,switzerland,CHE
+1487,carmax,1993.0,retail,5343,united states,USA
+1488,post office,2004.0,retail,5340,united kingdom,GBR
+1489,"turner (turner broadcasting system, inc)",1970.0,broadcast media,5337,united states,USA
+1490,supervalu,1870.0,supermarkets,5337,united states,USA
+1491,westinghouse electric company,1886.0,oil & energy,5334,united states,USA
+1492,sedgwick,1969.0,insurance,5334,united states,USA
+1493,melaleuca:the wellness company,1985.0,"health, wellness and fitness",5331,united states,USA
+1494,fao,1945.0,international affairs,5325,italy,ITA
+1495,agility,1979.0,logistics and supply chain,5323,switzerland,CHE
+1496,walgreens boots alliance,2014.0,pharmaceuticals,5322,united states,USA
+1500,unsw,1949.0,higher education,5312,australia,AUS
+1501,hcl technologies (infrastructure services division),1993.0,information technology and services,5308,india,IND
+1502,novant health,1997.0,hospital & health care,5308,united states,USA
+1503,kent state university,1910.0,higher education,5302,united states,USA
+1504,petroleum development oman,1937.0,oil & energy,5293,oman,OMN
+1506,united rentals,1997.0,construction,5293,united states,USA
+1507,american electric power,1906.0,utilities,5287,united states,USA
+1509,wayne state university,1868.0,higher education,5283,united states,USA
+1511,phillips 66,2012.0,oil & energy,5278,united states,USA
+1512,pt.pertamina (persero),1957.0,oil & energy,5277,indonesia,IDN
+1513,lululemon athletica,1998.0,retail,5277,canada,CAN
+1514,long & foster companies,1968.0,real estate,5275,united states,USA
+1516,clemson university,1889.0,higher education,5272,united states,USA
+1517,mindshare,1997.0,marketing and advertising,5269,united kingdom,GBR
+1520,university of pretoria,1908.0,higher education,5265,south africa,ZAF
+1522,unum,1848.0,insurance,5259,united states,USA
+1524,saudi arabian airlines,1945.0,airlines/aviation,5253,saudi arabia,SAU
+1525,maybank,1960.0,banking,5239,malaysia,MYS
+1526,ochsner health system,1942.0,hospital & health care,5237,united states,USA
+1527,compucom,1987.0,information technology and services,5233,united states,USA
+1529,navy federal credit union,1933.0,financial services,5230,united states,USA
+1530,hsbc private bank,1999.0,financial services,5227,switzerland,CHE
+1531,stanford health care,1885.0,hospital & health care,5223,united states,USA
+1532,university of north texas,1890.0,higher education,5223,united states,USA
+1534,sağlık bakanlığı-turkish ministry of health,1961.0,government administration,5212,turkey,TUR
+1535,servier,1954.0,pharmaceuticals,5211,france,FRA
+1536,ghd,1928.0,civil engineering,5209,australia,AUS
+1539,university of johannesburg,2005.0,higher education,5203,south africa,ZAF
+1541,chili's,1975.0,restaurants,5200,united states,USA
+1542,orbital atk,2015.0,defense & space,5199,united states,USA
+1543,subsea 7,2002.0,oil & energy,5199,united kingdom,GBR
+1544,fmc technologies,2001.0,oil & energy,5198,united states,USA
+1545,siemens gamesa,1976.0,renewables & environment,5195,spain,ESP
+1546,alten,1988.0,information technology and services,5195,france,FRA
+1547,robert bosch engineering and business solutions ltd.,1998.0,information technology and services,5194,india,IND
+1548,toshiba,1875.0,consumer electronics,5190,japan,JPN
+1550,chick-fil-a,1946.0,restaurants,5188,united states,USA
+1551,givaudan,1895.0,chemicals,5184,switzerland,CHE
+1552,b&q,1969.0,retail,5184,united kingdom,GBR
+1553,university of iowa,1847.0,higher education,5183,united states,USA
+1554,bayer materialscience,2004.0,chemicals,5182,germany,DEU
+1556,belk,1888.0,retail,5182,united states,USA
+1557,gucci,1921.0,luxury goods & jewelry,5182,italy,ITA
+1558,douglas elliman real estate,1911.0,real estate,5179,united states,USA
+1561,clariant,1995.0,chemicals,5173,switzerland,CHE
+1562,bajaj allianz general insurance co. ltd.,2001.0,insurance,5172,india,IND
+1563,aurecon,2009.0,management consulting,5170,australia,AUS
+1565,isagenix,2002.0,"health, wellness and fitness",5168,united states,USA
+1568,kansas state university,1863.0,higher education,5162,united states,USA
+1569,nestlé nespresso,1986.0,food & beverages,5161,switzerland,CHE
+1571,university of michigan health system,1869.0,hospital & health care,5160,united states,USA
+1575,saudi electricity company,2000.0,utilities,5153,saudi arabia,SAU
+1578,united overseas bank limited (uob),1935.0,banking,5145,singapore,SGP
+1579,national university of singapore,1905.0,higher education,5144,singapore,SGP
+1581,yapı kredi,1944.0,banking,5141,turkey,TUR
+1583,farmacia,1898.0,"health, wellness and fitness",5140,spain,ESP
+1586,burberry,1856.0,luxury goods & jewelry,5124,united kingdom,GBR
+1590,quad/graphics,1971.0,printing,5112,united states,USA
+1592,ivy tech community college,1967.0,higher education,5110,united states,USA
+1593,conagra foods,1919.0,food production,5109,united states,USA
+1594,jumeirah group / jumeirah hotels & resorts,1997.0,hospitality,5104,united arab emirates,ARE
+1595,eastman chemical company,1920.0,chemicals,5104,united states,USA
+1596,cdk global,1972.0,computer software,5099,united states,USA
+1598,aarhus university,1928.0,research,5082,denmark,DNK
+1599,alfa laval,1883.0,mechanical or industrial engineering,5082,sweden,SWE
+1600,washington state university,1890.0,higher education,5078,united states,USA
+1601,balfour beatty plc,1909.0,construction,5077,united kingdom,GBR
+1602,sunrise senior living,1981.0,hospital & health care,5076,united states,USA
+1605,university of birmingham,1900.0,higher education,5072,united kingdom,GBR
+1606,rush university medical center,1837.0,hospital & health care,5065,united states,USA
+1609,volvo trucks,1928.0,automotive,5058,sweden,SWE
+1612,uchealth,1921.0,hospital & health care,5046,united states,USA
+1613,griffith university,1975.0,higher education,5044,australia,AUS
+1616,volvo group,1927.0,transportation/trucking/railroad,5034,sweden,SWE
+1617,jet airways,1993.0,airlines/aviation,5030,india,IND
+1618,aon hewitt,1940.0,human resources,5026,united states,USA
+1619,state of washington,1889.0,government administration,5025,united states,USA
+1620,sars,1997.0,government administration,5023,south africa,ZAF
+1621,mount sinai health system,2013.0,hospital & health care,5022,united states,USA
+1622,iom,1951.0,non-profit organization management,5022,switzerland,CHE
+1623,molina healthcare,1980.0,hospital & health care,5012,united states,USA
+1624,entel,1964.0,telecommunications,5008,chile,CHL
+1625,codelco – corporación nacional del cobre de chile,1971.0,mining & metals,5004,chile,CHL
+1626,niit technologies limited,2004.0,information technology and services,5003,united states,USA
+1627,chipotle mexican grill,1993.0,restaurants,5002,united states,USA
+1637,senac,1946.0,higher education,4990,brazil,BRA
+1638,ptcl,1949.0,telecommunications,4988,pakistan,PAK
+1639,media markt,1979.0,retail,4985,germany,DEU
+1642,anhanguera educacional s.a.,1994.0,education management,4974,brazil,BRA
+1645,india infoline ltd,1995.0,financial services,4973,india,IND
+1647,sfr,2014.0,telecommunications,4967,france,FRA
+1650,hella,1899.0,automotive,4962,germany,DEU
+1661,itc limited,1910.0,consumer goods,4932,india,IND
+1662,tsinghua university,1911.0,higher education,4926,china,CHN
+1670,sbb cff ffs,1902.0,transportation/trucking/railroad,4896,switzerland,CHE
+1676,banco de chile,1893.0,banking,4889,chile,CHL
+1679,dnb,1822.0,financial services,4885,norway,NOR
+1688,softtek,1982.0,information technology and services,4876,mexico,MEX
+1689,apollo hospitals,1983.0,hospital & health care,4875,india,IND
+1698,acciona,1861.0,renewables & environment,4846,spain,ESP
+1701,ntnu,1910.0,higher education,4843,norway,NOR
+1702,anglogold ashanti,1998.0,mining & metals,4842,south africa,ZAF
+1706,university of cape town,1829.0,higher education,4832,south africa,ZAF
+1708,lonza,1897.0,biotechnology,4823,switzerland,CHE
+1709,afpa,1966.0,professional training & coaching,4821,france,FRA
+1719,universidade paulista,1988.0,higher education,4807,brazil,BRA
+1720,dar al-handasah (shair and partners),1956.0,design,4806,lebanon,LBN
+1721,ministry of health saudi arabia,1915.0,government administration,4805,saudi arabia,SAU
+1733,telia company,1853.0,telecommunications,4775,sweden,SWE
+1739,godrej & boyce mfg. co. ltd.,1897.0,consumer goods,4765,india,IND
+1742,aircel,1999.0,telecommunications,4759,india,IND
+1751,niit limited,1981.0,education management,4744,india,IND
+1757,liberty group south africa,1956.0,insurance,4730,south africa,ZAF
+1758,emirates nbd,1963.0,banking,4729,united arab emirates,ARE
+1763,propia,2009.0,architecture & planning,4720,spain,ESP
+1764,bii,1959.0,banking,4719,indonesia,IDN
+1765,cmc ltd,1975.0,information technology and services,4718,india,IND
+1766,international committee of the red cross - icrc,1863.0,non-profit organization management,4713,switzerland,CHE
+1774,karolinska institutet,1810.0,higher education,4699,sweden,SWE
+1775,ocbc bank,1932.0,banking,4699,singapore,SGP
+1776,tcs e-serve international ltd.,1993.0,outsourcing/offshoring,4698,india,IND
+1785,max life insurance company limited,2000.0,insurance,4683,india,IND
+1786,s.f. express co. ltd,1993.0,logistics and supply chain,4682,china,CHN
+1789,discovery limited,1992.0,financial services,4672,south africa,ZAF
+1790,embratel,1965.0,telecommunications,4666,brazil,BRA
+1794,banco sabadell,1881.0,banking,4656,spain,ESP
+1796,itc infotech,2000.0,information technology and services,4653,india,IND
+1801,grundfos,1945.0,mechanical or industrial engineering,4647,denmark,DNK
+1802,polaris financial technology limited,1993.0,information technology and services,4646,india,IND
+1810,fresenius kabi,1999.0,pharmaceuticals,4629,germany,DEU
+1817,antel,1974.0,telecommunications,4618,uruguay,URY
+1822,garanti bank,1946.0,banking,4611,turkey,TUR
+1840,bnp paribas cardif,1973.0,insurance,4583,france,FRA
+1843,industrial and commercial bank of china,1984.0,banking,4579,china,CHN
+1859,tata technologies,1989.0,information technology and services,4547,singapore,SGP
+1863,beiersdorf,1882.0,cosmetics,4541,germany,DEU
+1864,albert heijn,1887.0,retail,4539,netherlands,NLD
+1866,xl catlin,1986.0,insurance,4534,bermuda,BMU
+1872,swarovski,1895.0,luxury goods & jewelry,4526,switzerland,CHE
+1876,andritz,1852.0,machinery,4522,austria,AUT
+1878,hospital & healthcare brazil,2010.0,management consulting,4513,brazil,BRA
+1879,ufrj,1920.0,higher education,4513,brazil,BRA
+1881,maruti suzuki india limited,1983.0,automotive,4507,india,IND
+1889,essar,1969.0,oil & energy,4498,india,IND
+1890,a.p. moller - maersk,1904.0,international trade and development,4497,denmark,DNK
+1893,telmex,1947.0,telecommunications,4493,mexico,MEX
+1898,telkomsel,1995.0,telecommunications,4488,indonesia,IDN
+1902,sicredi,1902.0,financial services,4483,brazil,BRA
+1914,diversey inc,1952.0,chemicals,4456,netherlands,NLD
+1916,achmea,1811.0,insurance,4452,netherlands,NLD
+1917,air india,1985.0,airlines/aviation,4451,united arab emirates,ARE
+1925,bearingpoint,2002.0,management consulting,4439,netherlands,NLD
+1927,yokogawa,1915.0,industrial automation,4432,japan,JPN
+1932,globant,2003.0,information technology and services,4426,argentina,ARG
+1933,puma,1948.0,apparel & fashion,4424,germany,DEU
+1934,pt pln (persero),1961.0,utilities,4423,indonesia,IDN
+1941,mobilink,1994.0,telecommunications,4404,pakistan,PAK
+1946,wolters kluwer,1836.0,information services,4394,netherlands,NLD
+1949,sca - hygiene and forest products company,1929.0,consumer goods,4392,sweden,SWE
+1955,braskem,2002.0,plastics,4381,brazil,BRA
+1959,mrv engenharia,1979.0,civil engineering,4378,brazil,BRA
+1972,uba group,1948.0,banking,4354,nigeria,NGA
+1975,åf,1895.0,mechanical or industrial engineering,4348,sweden,SWE
+1977,university of the witwatersrand,1896.0,higher education,4344,south africa,ZAF
+1983,sonda,1974.0,information technology and services,4334,chile,CHL
+1984,sweco,1889.0,civil engineering,4333,sweden,SWE
+1985,pt hm sampoerna tbk,1913.0,tobacco,4331,indonesia,IDN
+1986,cairo university,1908.0,higher education,4331,egypt,EGY
+1989,bnl gruppo bnp paribas,1913.0,banking,4330,italy,ITA
+2002,telekomunikasi indonesia,1884.0,information technology and services,4288,indonesia,IDN
+2009,bajaj finserv,2007.0,financial services,4278,india,IND
+2012,plastic omnium,1947.0,automotive,4274,france,FRA
+2019,seguros sura,1944.0,insurance,4251,colombia,COL
+2031,3i infotech,1993.0,information technology and services,4238,india,IND
+2032,osram,1919.0,electrical/electronic manufacturing,4237,germany,DEU
+2051,international sos,1985.0,hospital & health care,4212,singapore,SGP
+2069,idbi bank,1964.0,banking,4186,india,IND
+2071,handelsbanken,1871.0,banking,4182,sweden,SWE
+2074,indiamart intermesh limited,1996.0,internet,4176,india,IND
+2075,spar,1963.0,retail,4176,south africa,ZAF
+2081,hugo boss,1923.0,apparel & fashion,4165,germany,DEU
+2083,liverpool,1847.0,retail,4160,mexico,MEX
+2087,nationale-nederlanden,1845.0,financial services,4155,netherlands,NLD
+2095,omv,1956.0,oil & energy,4133,austria,AUT
+2107,glenmark pharmaceuticals,1977.0,pharmaceuticals,4117,india,IND
+2109,pierre fabre,1961.0,pharmaceuticals,4115,france,FRA
+2115,vrije universiteit amsterdam,1880.0,research,4108,netherlands,NLD
+2123,grifols,1940.0,pharmaceuticals,4096,spain,ESP
+2124,denso,1949.0,automotive,4095,japan,JPN
+2132,engineering ingegneria informatica spa,1980.0,information technology and services,4085,italy,ITA
+2142,damco,1905.0,logistics and supply chain,4073,netherlands,NLD
+2144,radboudumc,1951.0,hospital & health care,4068,netherlands,NLD
+2147,multichoice,1993.0,broadcast media,4067,south africa,ZAF
+2148,tecnicas reunidas,1972.0,oil & energy,4065,spain,ESP
+2155,king faisal specialist hospital,1975.0,hospital & health care,4060,saudi arabia,SAU
+2162,kuwait oil company,1934.0,oil & energy,4050,kuwait,KWT
+2166,volkswagen do brasil,1953.0,automotive,4046,brazil,BRA
+2174,bank of india,1906.0,banking,4033,india,IND
+2175,france télévisions,2000.0,broadcast media,4032,france,FRA
+2179,university of puerto rico,1903.0,higher education,4030,colombia,COL
+2180,vumc,1966.0,hospital & health care,4028,netherlands,NLD
+2181,tam,1976.0,airlines/aviation,4027,brazil,BRA
+2183,banco bci,1937.0,banking,4023,chile,CHL
+2187,ecopetrol,1951.0,oil & energy,4016,colombia,COL
+2189,santander brasil,1982.0,banking,4010,brazil,BRA
+2195,cowi,1930.0,civil engineering,3998,denmark,DNK
+2205,louis dreyfus company,1851.0,food production,3982,switzerland,CHE
+2223,investec,1974.0,banking,3959,south africa,ZAF
+2224,tommy hilfiger,1985.0,apparel & fashion,3958,netherlands,NLD
+2232,bouygues telecom,1994.0,telecommunications,3948,france,FRA
+2236,punjab national bank,1894.0,banking,3942,india,IND
+2240,vinci energies,2003.0,information technology and services,3941,france,FRA
+2243,ashok leyland,1948.0,automotive,3935,india,IND
+2244,bestseller,1975.0,apparel & fashion,3934,denmark,DNK
+2246,air new zealand,1940.0,airlines/aviation,3931,new zealand,NZL
+2253,king abdulaziz university,1967.0,higher education,3919,saudi arabia,SAU
+2259,saab,1937.0,defense & space,3908,sweden,SWE
+2264,telekom malaysia,1984.0,telecommunications,3897,malaysia,MYS
+2272,sofitel luxury hotels and resorts,1964.0,hospitality,3889,france,FRA
+2273,china pacific insurance company,1991.0,insurance,3889,china,CHN
+2286,arla foods,1881.0,dairy,3877,denmark,DNK
+2289,belcorp,1968.0,cosmetics,3872,peru,PER
+2293,cybage,1995.0,information technology and services,3868,india,IND
+2303,konecranes,1994.0,machinery,3845,finland,FIN
+2306,fod financiën - spf finances,1830.0,government administration,3838,belgium,BEL
+2312,krajowy fundusz kapitałowy sa,2005.0,financial services,3823,poland,POL
+2313,gfi informatique,1995.0,information technology and services,3822,france,FRA
+2314,stellenbosch university,1918.0,higher education,3821,south africa,ZAF
+2322,yara international,1905.0,chemicals,3811,norway,NOR
+2325,barclays africa group limited,1991.0,financial services,3802,south africa,ZAF
+2327,upc chello,1998.0,management consulting,3800,netherlands,NLD
+2328,birla sun life insurance,2001.0,insurance,3800,india,IND
+2337,south african breweries,1895.0,food & beverages,3789,south africa,ZAF
+2339,majid al futtaim,1992.0,retail,3786,united arab emirates,ARE
+2347,nec,1899.0,information technology and services,3778,japan,JPN
+2349,weg,1961.0,electrical/electronic manufacturing,3776,brazil,BRA
+2350,inserm,1964.0,research,3774,france,FRA
+2353,mango,1984.0,retail,3772,spain,ESP
+2354,lazada group,2012.0,internet,3771,singapore,SGP
+2356,university of milan,1924.0,higher education,3769,italy,ITA
+2364,bank alfalah limited,1997.0,banking,3762,pakistan,PAK
+2366,carlsberg group,1847.0,food & beverages,3761,denmark,DNK
+2377,abu dhabi commercial bank,1985.0,banking,3746,united arab emirates,ARE
+2384,sika,1910.0,chemicals,3742,switzerland,CHE
+2400,prada,1913.0,apparel & fashion,3727,italy,ITA
+2410,volvo construction equipment,1832.0,machinery,3716,belgium,BEL
+2412,vodafoneziggo,2007.0,telecommunications,3713,netherlands,NLD
+2415,gauteng provincial government,2009.0,government administration,3711,south africa,ZAF
+2420,alitalia compagnia aerea italiana spa,1946.0,airlines/aviation,3705,italy,ITA
+2426,fgv,1944.0,higher education,3701,brazil,BRA
+2440,"smart communications, inc.",1991.0,telecommunications,3671,philippines,PHL
+2447,"mettler-toledo international, inc",1946.0,electrical/electronic manufacturing,3665,switzerland,CHE
+2453,panasonic,1918.0,consumer electronics,3652,japan,JPN
+2456,quest global,1997.0,outsourcing/offshoring,3649,singapore,SGP
+2458,aegon,1844.0,financial services,3647,netherlands,NLD
+2459,colruyt group,1925.0,retail,3646,belgium,BEL
+2460,nh hotel group,1978.0,hospitality,3646,spain,ESP
+2461,k-electric,1913.0,oil & energy,3645,pakistan,PAK
+2471,mcb bank limited,1947.0,banking,3633,pakistan,PAK
+2474,pt bank rakyat indonesia (persero) tbk,1895.0,banking,3632,indonesia,IDN
+2475,comisión federal de electricidad,1937.0,renewables & environment,3630,mexico,MEX
+2478,prudential indonesia (pt prudential life assurance),1995.0,insurance,3627,indonesia,IDN
+2481,atento brasil,1999.0,outsourcing/offshoring,3623,brazil,BRA
+2483,firmenich,1895.0,chemicals,3618,switzerland,CHE
+2486,indosat,1967.0,telecommunications,3613,indonesia,IDN
+2489,wageningen university & research,1918.0,research,3609,netherlands,NLD
+2495,lidl,1973.0,retail,3603,germany,DEU
+2497,bank danamon indonesia,1956.0,banking,3599,indonesia,IDN
+2518,suzlon wind energy a/s,1995.0,renewables & environment,3574,india,IND
+2530,safran,2005.0,aviation & aerospace,3562,france,FRA
+2535,old mutual south africa,1845.0,financial services,3556,south africa,ZAF
+2539,meliá hotels international,1956.0,hospitality,3553,spain,ESP
+2542,médecins sans frontières (msf),1971.0,medical practice,3551,switzerland,CHE
+2552,glencore,1974.0,mining & metals,3537,switzerland,CHE
+2558,almarai - المراعي,1976.0,food & beverages,3533,saudi arabia,SAU
+2565,denizbank,1997.0,banking,3526,turkey,TUR
+2566,mobily,2004.0,telecommunications,3525,saudi arabia,SAU
+2567,aramex,1982.0,logistics and supply chain,3525,united arab emirates,ARE
+2570,adnoc,1971.0,oil & energy,3519,united arab emirates,ARE
+2572,banca mediolanum,1982.0,banking,3517,italy,ITA
+2573,lopes consultoria de imóveis,1935.0,real estate,3516,brazil,BRA
+2574,unify,2008.0,telecommunications,3515,germany,DEU
+2575,cms infosystems pvt. ltd.,2009.0,outsourcing/offshoring,3514,india,IND
+2576,gvt,1999.0,telecommunications,3512,brazil,BRA
+2580,assystem,1966.0,mechanical or industrial engineering,3505,france,FRA
+2582,nestlé waters,1992.0,food & beverages,3505,france,FRA
+2587,piraeus bank,1916.0,banking,3498,greece,GRC
+2591,apm terminals,2004.0,maritime,3490,netherlands,NLD
+2593,club med,1950.0,"leisure, travel & tourism",3488,france,FRA
+2594,malaysia airlines,1972.0,airlines/aviation,3488,malaysia,MYS
+2601,shoprite,1979.0,retail,3481,south africa,ZAF
+2611,abc consultants,1969.0,human resources,3471,india,IND
+2622,att,2002.0,import and export,3464,poland,POL
+2627,biocon,1978.0,biotechnology,3457,india,IND
+2640,netcare,1994.0,hospital & health care,3441,south africa,ZAF
+2644,airasia,2001.0,airlines/aviation,3439,malaysia,MYS
+2650,endesa,1944.0,utilities,3433,spain,ESP
+2651,transcom,1995.0,outsourcing/offshoring,3432,sweden,SWE
+2655,liebherr group,1949.0,machinery,3428,switzerland,CHE
+2656,zydus cadila,1952.0,pharmaceuticals,3428,india,IND
+2657,digicel group,2001.0,telecommunications,3424,jamaica,JAM
+2665,reliance retail,1995.0,retail,3415,india,IND
+2668,ocp sa,1920.0,mining & metals,3414,morocco,MAR
+2672,cern,1954.0,research,3408,switzerland,CHE
+2674,hogeschool van amsterdam,1993.0,higher education,3407,netherlands,NLD
+2675,li & fung limited,1906.0,consumer goods,3405,hong kong,HKG
+2676,ems,1964.0,pharmaceuticals,3401,brazil,BRA
+2677,fnac,1954.0,retail,3400,france,FRA
+2687,teb,1927.0,banking,3392,turkey,TUR
+2690,zalando se,2008.0,internet,3389,germany,DEU
+2695,intermarché,1974.0,supermarkets,3387,france,FRA
+2701,comau,1973.0,industrial automation,3373,italy,ITA
+2715,cimb niaga,1955.0,banking,3360,indonesia,IDN
+2716,avianca,1919.0,airlines/aviation,3360,colombia,COL
+2721,falabella,1989.0,retail,3352,chile,CHL
+2723,pandora a/s,1982.0,luxury goods & jewelry,3350,denmark,DNK
+2725,eclerx,2000.0,outsourcing/offshoring,3347,india,IND
+2726,radboud university,1923.0,research,3344,netherlands,NLD
+2732,rexel,1967.0,wholesale,3339,france,FRA
+2735,sabc,1999.0,broadcast media,3337,south africa,ZAF
