@@ -7,4 +7,4 @@ Additional features:
 
 Supports most android models in both portrait and landscape mode.
 
-### ![alt text](https://github.com/aloychow/stockstockstocks/images/candlestick_indicator_image.png "candlestick")
+### ![alt text](https://github.com/aloychow/stockstockstocks/tree/main/images/candlestick_indicator_image.png "candlestick")
