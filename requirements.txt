@@ -54,5 +54,5 @@ matplotlib~=3.3.3
 textblob~=0.15.3
 statsmodels~=0.12.2
 pmdarima~=1.8.0
-scipy~=1.6.0
+scipy~=1.5.4
 praw~=7.1.4
