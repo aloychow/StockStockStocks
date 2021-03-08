@@ -2,4 +2,5 @@
  *.pyc
  .env
  .DS_Store
- datasets/companies_sorted.csv
+ apps/sentiment_analysis/analysis_reddit.py
+ apps/sentiment_analysis/analysis_reddit_buzz.py
