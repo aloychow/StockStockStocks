@@ -23,7 +23,7 @@ You can search for existing candlestick indicators for specific companies. You a
 You can utilise and alter basic technical indicators such as moving averages and bollinger bands.
 ### ![alt text](https://github.com/aloychow/stockstockstocks/blob/main/images/statistical_indicator_image.png "statistical")
 
-### Fundamental
+## Fundamental
 
 - Unimplemented -
 
@@ -45,7 +45,7 @@ The website provides predictive tools to predict the price of stocks.
 
 ### Holt-Winters Model
 This predicts the price of a stock using holt-winters model.
-### ![alt text](https://github.com/aloychow/stockstockstocks/blob/main/images/holt_winter_image.png "candlestick")
+### ![alt text](https://github.com/aloychow/stockstockstocks/blob/main/images/holtwinter_image.png "candlestick")
 
 ### Autoregressive Integrated Moving Average
 This predicts the price of a stock using ARIMA.
@@ -56,6 +56,6 @@ This is a tool to optimise your portfolio through different means.
 
 ### Markowitz Bullet
 This showcases the relative performance of a group of stocks.
-### ![alt text](https://github.com/aloychow/stockstockstocks/blob/main/images/markowitz_bullet_image.png "candlestick")
+### ![alt text](https://github.com/aloychow/stockstockstocks/blob/main/images/markowitz_image.png "candlestick")
 
 
