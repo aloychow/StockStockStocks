@@ -2,5 +2,5 @@
  *.pyc
  .env
  .DS_Store
- apps/sentiment_analysis/analysis_reddit.py
- apps/sentiment_analysis/analysis_reddit_buzz.py
+# apps/sentiment_analysis/analysis_reddit.py
+# apps/sentiment_analysis/analysis_reddit_buzz.py

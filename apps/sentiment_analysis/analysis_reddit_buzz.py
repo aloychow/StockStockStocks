@@ -27,13 +27,21 @@ id_start = idf.init_id('analysis_reddit_buzz')
 PATH = pathlib.Path(__file__).parent.parent
 DATA_PATH = PATH.joinpath("../datasets").resolve()  # Change path to datasets
 
+# Importing candlestick pattern dataset
+candlestick_patterns = str(DATA_PATH) + '/candlestick_patterns/candlestick_patterns.csv'
+patterns = pd.read_csv(candlestick_patterns, header=None, index_col=0, squeeze=True).to_dict()
+
+
 # Set colours
 colors = {"background": "#272B30", "text": "#FFFFFF"}
 # external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 
 # Importing datasets
-df_reddit_mentions_sum = pd.read_csv(str(DATA_PATH) + '/reddit/reddit_mentions_sum.csv')
-df_reddit_mentions_daily = pd.read_csv(str(DATA_PATH) + '/reddit/reddit_mentions_daily.csv')
+reddit_mentions_sum = str(DATA_PATH) + '/reddit/reddit_mentions_sum.csv'
+df_reddit_mentions_sum = pd.read_csv(reddit_mentions_sum)
+
+reddit_mentions_daily = str(DATA_PATH) + '/reddit/reddit_mentions_daily.csv'
+df_reddit_mentions_daily = pd.read_csv(reddit_mentions_daily)
 
 # Renaming Columns
 df_reddit_mentions_sum = df_reddit_mentions_sum.rename(columns={"num_mentions": "Mentions", "stock_ticker": "Ticker", "stock_name": "Company"})
