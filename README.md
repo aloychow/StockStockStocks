@@ -1,6 +1,6 @@
 # stockstockstocks
 
-This is an a data analytics website utilising visualisation tool Plotly and hosted on Dash. This website is used to aid in viewing and doing basic stock analysis on existing data. You can view the website [here](http://127.0.0.1:3000/apps/homepage).
+This is an a data analytics website utilising visualisation tool Plotly and hosted on Dash. This website is used to aid in viewing and doing basic stock analysis on existing data. You can view the website [here](https://stockstockstocks.herokuapp.com).
 
 # Features
 The functions includes:
